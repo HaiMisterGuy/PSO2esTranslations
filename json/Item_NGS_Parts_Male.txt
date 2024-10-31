@@ -673,14 +673,14 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠ・アーム",
-		"tr_text": "",
+		"tr_text": "Durga I Arms",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new arm parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠ・アーム/B",
-		"tr_text": "",
+		"tr_text": "Durga I Arms/B",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new arm parts for use.",
 		"assign": 0
@@ -1352,14 +1352,14 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠ・ボディ",
-		"tr_text": "",
+		"tr_text": "Durga I Body",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new body parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠ・ボディ/B",
-		"tr_text": "",
+		"tr_text": "Durga I Body/B",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new body parts for use.",
 		"assign": 0
@@ -2052,14 +2052,14 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠ・レッグ",
-		"tr_text": "",
+		"tr_text": "Durga I Legs",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new leg parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠ・レッグ/B",
-		"tr_text": "",
+		"tr_text": "Durga I Legs/B",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new leg parts for use.",
 		"assign": 0

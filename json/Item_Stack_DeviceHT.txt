@@ -3299,14 +3299,14 @@
 	{
 		"assign": "312010692",
 		"jp_text": "マグフォルム／ドゥルガーⅠG",
-		"tr_text": "",
+		"tr_text": "Mag Form/Durga IG",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": "A device that changes a Mag's form.\n<yellow>※Only usable in NGS.<c>"
 	},
 	{
 		"assign": "312010693",
 		"jp_text": "マグフォルム／ドゥルガーⅠG-DQV",
-		"tr_text": "",
+		"tr_text": "Mag Form/Durga IG-DQV",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": "A device that changes a Mag's form.\n<yellow>※Only usable in NGS.<c>"
 	}

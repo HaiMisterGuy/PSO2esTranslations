@@ -11362,28 +11362,28 @@
 	},
 	{
 		"jp_text": "BP「メカニカル・チェーンベース」",
-		"tr_text": "",
+		"tr_text": "BP \"Mechanical Chain Base\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メカニカル・チェーンベースB」",
-		"tr_text": "",
+		"tr_text": "BP \"Mechanical Chain Base B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メカニカル・チェーンベースC」",
-		"tr_text": "",
+		"tr_text": "BP \"Mechanical Chain Base C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メカニカル・チェーンベースD」",
-		"tr_text": "",
+		"tr_text": "BP \"Mechanical Chain Base D\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0

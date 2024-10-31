@@ -4986,7 +4986,7 @@
 	{
 		"assign": "316010117",
 		"jp_text": "ドゥルガーⅠ・ヘッド",
-		"tr_text": "",
+		"tr_text": "Durga I Head",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new head parts for use."
 	},
@@ -5007,7 +5007,7 @@
 	{
 		"assign": "316010120",
 		"jp_text": "ドゥルガーⅠ・ヘッド/B",
-		"tr_text": "",
+		"tr_text": "Durga I Head/B",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new head parts for use."
 	}

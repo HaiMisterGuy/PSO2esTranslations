@@ -85381,35 +85381,35 @@
 	{
 		"assign": "38011848",
 		"jp_text": "ドゥルガーⅠイオンブラスター",
-		"tr_text": "",
+		"tr_text": "Durga I Ion Blasters",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011849",
 		"jp_text": "ドゥルガーⅠGリボン",
-		"tr_text": "",
+		"tr_text": "Durga IG Ribbon",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011850",
 		"jp_text": "ドゥルガーⅠG-DQVティアラ",
-		"tr_text": "",
+		"tr_text": "Durga IG-DQV Tiara",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011851",
 		"jp_text": "エクスアーマーE（ドレスVer.）",
-		"tr_text": "",
+		"tr_text": "Expansion Armor E (Dress Ver.)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011852",
 		"jp_text": "エクスアーマーC",
-		"tr_text": "",
+		"tr_text": "Expansion Armor C",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
@@ -85542,7 +85542,7 @@
 	{
 		"assign": "38011871",
 		"jp_text": "ドゥルガーⅠGイオンブラスター",
-		"tr_text": "",
+		"tr_text": "Durga IG Ion Blasters",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},

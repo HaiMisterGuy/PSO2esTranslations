@@ -442,7 +442,7 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠG・アーム",
-		"tr_text": "",
+		"tr_text": "Durga IG Arms",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new arm parts for use.",
 		"assign": 0
@@ -456,7 +456,7 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠG-DQV・アーム",
-		"tr_text": "",
+		"tr_text": "Durga IG-DQV Arms",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new arm parts for use.",
 		"assign": 0
@@ -932,7 +932,7 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠG・ボディ",
-		"tr_text": "",
+		"tr_text": "Durga IG Body",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new body parts for use.",
 		"assign": 0
@@ -946,21 +946,21 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠG-DQV・ボディ",
-		"tr_text": "",
+		"tr_text": "Durga IG-DQV Body",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new body parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠG・ボディV2",
-		"tr_text": "",
+		"tr_text": "Durga IG Body V2",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new body parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠG-DQV・ボディV2",
-		"tr_text": "",
+		"tr_text": "Durga IG-DQV Body V2",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new body parts for use.",
 		"assign": 0
@@ -1408,7 +1408,7 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠG・レッグ",
-		"tr_text": "",
+		"tr_text": "Durga IG Legs",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new leg parts for use.",
 		"assign": 0
@@ -1422,21 +1422,21 @@
 	},
 	{
 		"jp_text": "ドゥルガーⅠG-DQV・レッグ",
-		"tr_text": "",
+		"tr_text": "Durga IG-DQV Legs",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new leg parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠG・レッグV2",
-		"tr_text": "",
+		"tr_text": "Durga IG Legs V2",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new leg parts for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ドゥルガーⅠG-DQV・レッグV2",
-		"tr_text": "",
+		"tr_text": "Durga IG-DQV Legs V2",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "Unlocks new leg parts for use.",
 		"assign": 0
