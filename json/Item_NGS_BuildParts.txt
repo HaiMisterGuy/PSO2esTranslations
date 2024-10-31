@@ -680,7 +680,7 @@
 	},
 	{
 		"jp_text": "BP「ダンベル」",
-		"tr_text": "",
+		"tr_text": "BP \"Dumbbell\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -897,7 +897,7 @@
 	},
 	{
 		"jp_text": "BP「ウォールペイント」",
-		"tr_text": "",
+		"tr_text": "BP \"Wall Paint\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -3627,7 +3627,7 @@
 	},
 	{
 		"jp_text": "BP「ビクトリースタンド」",
-		"tr_text": "",
+		"tr_text": "BP \"Victory Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4306,7 +4306,7 @@
 	},
 	{
 		"jp_text": "BP「スモッグメーカー」",
-		"tr_text": "",
+		"tr_text": "BP \"Smog Maker\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4348,14 +4348,14 @@
 	},
 	{
 		"jp_text": "BP「虹箱ルームライト」",
-		"tr_text": "",
+		"tr_text": "BP \"Rainbow Box Room Light\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「あやしい実験カプセル」",
-		"tr_text": "",
+		"tr_text": "BP \"Strange Experiment Capsule\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4397,21 +4397,21 @@
 	},
 	{
 		"jp_text": "BP「ユー・フォー」",
-		"tr_text": "",
+		"tr_text": "BP \"U.F.O.\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ユー・エムエー」",
-		"tr_text": "",
+		"tr_text": "BP \"U.M.A.\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ルーレットウィール」",
-		"tr_text": "",
+		"tr_text": "BP \"Roulette Wheel\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11236,7 +11236,7 @@
 	},
 	{
 		"jp_text": "BP「シリンディカルホロケージ」",
-		"tr_text": "",
+		"tr_text": "BP \"Cylindrical Holo Cage\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11271,42 +11271,42 @@
 	},
 	{
 		"jp_text": "BP「エヴォルコートソード」",
-		"tr_text": "",
+		"tr_text": "BP \"Evolcoat Sword\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートライフル」",
-		"tr_text": "",
+		"tr_text": "BP \"Evolcoat Rifle\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートランチャー」",
-		"tr_text": "",
+		"tr_text": "BP \"Evolcoat Launcher\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートロッド」",
-		"tr_text": "",
+		"tr_text": "BP \"Evolcoat Rod\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートスピア」",
-		"tr_text": "",
+		"tr_text": "BP \"Evolcoat Spear\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートボウ」",
-		"tr_text": "",
+		"tr_text": "BP \"Evolcoat Bow\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
