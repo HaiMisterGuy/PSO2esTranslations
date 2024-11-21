@@ -85577,56 +85577,56 @@
 	{
 		"assign": "38011876",
 		"jp_text": "ジャスパーＬの星石リング",
-		"tr_text": "",
+		"tr_text": "Jasper L's Rune Ring",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011877",
 		"jp_text": "リンジーのピアス",
-		"tr_text": "",
+		"tr_text": "Lindsey's Earrings",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011878",
 		"jp_text": "オデットのカチューシャ",
-		"tr_text": "",
+		"tr_text": "Odette's Headband",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011879",
 		"jp_text": "オデットの薔薇飾り",
-		"tr_text": "",
+		"tr_text": "Odette's Rose Ornament",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011880",
 		"jp_text": "イドラ属性シンボルバッジ（火）",
-		"tr_text": "",
+		"tr_text": "Idola Attribute Badge (Fire)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011881",
 		"jp_text": "イドラ属性シンボルバッジ（水）",
-		"tr_text": "",
+		"tr_text": "Idola Attribute Badge (Water)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011882",
 		"jp_text": "イドラ属性シンボルバッジ（風）",
-		"tr_text": "",
+		"tr_text": "Idola Attribute Badge (Wind)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011883",
 		"jp_text": "イドラ属性シンボルバッジ（土）",
-		"tr_text": "",
+		"tr_text": "Idola Attribute Badge (Earth)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},

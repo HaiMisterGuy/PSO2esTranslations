@@ -78,7 +78,7 @@
 	},
 	{
 		"jp_text": "リンジーボディ",
-		"tr_text": "",
+		"tr_text": "Lindsey Body",
 		"jp_explain": "使用すると新しい肌パターンが\n選択可能になる。\n<yellow>※対応：ヒト型/キャストタイプ2<c>",
 		"tr_explain": "Unlocks a new body type for use.\n<yellow>※Type: Human/Cast Type 2<c>",
 		"assign": 0

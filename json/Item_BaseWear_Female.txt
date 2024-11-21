@@ -43458,14 +43458,14 @@
 	{
 		"assign": "335011628",
 		"jp_text": "リンジー・レプカ[Se]",
-		"tr_text": "",
+		"tr_text": "Lindsey Repca [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011629",
 		"jp_text": "オデット・レプカ[Se]",
-		"tr_text": "",
+		"tr_text": "Odette Repca [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
@@ -43647,35 +43647,35 @@
 	{
 		"assign": "335011655",
 		"jp_text": "リンジー・レプカ/B[Se]",
-		"tr_text": "",
+		"tr_text": "Lindsey Repca/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011657",
 		"jp_text": "リンジー・レプカV2[Se]",
-		"tr_text": "",
+		"tr_text": "Lindsey Repca V2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011658",
 		"jp_text": "オデット・レプカ/2[Se]",
-		"tr_text": "",
+		"tr_text": "Odette Repca/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011659",
 		"jp_text": "オデット・レプカ/B[Se]",
-		"tr_text": "",
+		"tr_text": "Odette Repca/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011660",
 		"jp_text": "オデット・レプカ/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Odette Repca/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
@@ -43703,7 +43703,7 @@
 	{
 		"assign": "335011664",
 		"jp_text": "リンジー・レプカ/2[Se]",
-		"tr_text": "",
+		"tr_text": "Lindsey Repca/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	}

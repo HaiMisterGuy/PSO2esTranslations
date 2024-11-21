@@ -11411,91 +11411,91 @@
 	},
 	{
 		"jp_text": "BP「イドラ：ポスターE」",
-		"tr_text": "",
+		"tr_text": "BP \"Idola: Poster E\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「イドラ：ポスターF」",
-		"tr_text": "",
+		"tr_text": "BP \"Idola: Poster F\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「イドラ：ポスターG」",
-		"tr_text": "",
+		"tr_text": "BP \"Idola: Poster G\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「イドラ：ポスターH」",
-		"tr_text": "",
+		"tr_text": "BP \"Idola: Poster H\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ジャスパーＬの剣」",
-		"tr_text": "",
+		"tr_text": "BP \"Jasper L's Sword\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「爆斬砲アルシャト」",
-		"tr_text": "",
+		"tr_text": "BP \"Sundercannon Alshat\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ローゼンシュトゥルム」",
-		"tr_text": "",
+		"tr_text": "BP \"Rosensturm\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「［新たなる力］ユリィアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"[NP] Uly Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「［新たな決意］ステラアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"[NR] Stella Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ジゼルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Giselle Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ジャスパーＬアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Jasper L Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「リンジーアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Lindsey Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オデットアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Odette Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0

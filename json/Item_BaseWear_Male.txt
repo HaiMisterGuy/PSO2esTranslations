@@ -22234,7 +22234,7 @@
 	{
 		"assign": "334010890",
 		"jp_text": "ジャスパーＬ・レプカ[Ba]",
-		"tr_text": "",
+		"tr_text": "Jasper L Repca [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
@@ -22297,21 +22297,21 @@
 	{
 		"assign": "334010899",
 		"jp_text": "ジャスパーＬ・レプカ/2[Ba]",
-		"tr_text": "",
+		"tr_text": "Jasper L Repca/2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "334010900",
 		"jp_text": "ジャスパーＬ・レプカ/B[Ba]",
-		"tr_text": "",
+		"tr_text": "Jasper L Repca/B [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "334010901",
 		"jp_text": "ジャスパーＬ・レプカ/B2[Ba]",
-		"tr_text": "",
+		"tr_text": "Jasper L Repca/B2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},

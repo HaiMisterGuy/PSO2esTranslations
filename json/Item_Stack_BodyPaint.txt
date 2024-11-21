@@ -16711,42 +16711,42 @@
 	{
 		"assign": "329010858",
 		"jp_text": "ジャスパーＬのグローブ/B",
-		"tr_text": "",
+		"tr_text": "Jasper L's Gloves/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010859",
 		"jp_text": "ジャスパーＬのグローブ",
-		"tr_text": "",
+		"tr_text": "Jasper L's Gloves",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010860",
 		"jp_text": "オデットペイント/B",
-		"tr_text": "",
+		"tr_text": "Odette Paint/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010861",
 		"jp_text": "オデットペイント",
-		"tr_text": "",
+		"tr_text": "Odette Paint",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010862",
 		"jp_text": "オデットのニーソ/B",
-		"tr_text": "",
+		"tr_text": "Odette's Knee Socks/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010863",
 		"jp_text": "オデットのニーソ",
-		"tr_text": "",
+		"tr_text": "Odette's Knee Socks",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
