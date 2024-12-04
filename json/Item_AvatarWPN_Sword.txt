@@ -2221,7 +2221,7 @@
 	{
 		"assign": "101010199",
 		"jp_text": "＊第七聖典・出血死（ブレイド）",
-		"tr_text": "",
+		"tr_text": "＊7th Holy Scripture (Blade)",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
 		"tr_explain": ""
 	}

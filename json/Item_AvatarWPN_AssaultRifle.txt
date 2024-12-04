@@ -548,7 +548,7 @@
 	{
 		"assign": "108010019",
 		"jp_text": "＊第七聖典・焼死（ブレイズ）",
-		"tr_text": "",
+		"tr_text": "＊7th Holy Scripture (Blaze)",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル<c>",
 		"tr_explain": ""
 	}

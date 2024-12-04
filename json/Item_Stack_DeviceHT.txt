@@ -3320,7 +3320,7 @@
 	{
 		"assign": "312010694",
 		"jp_text": "マグフォルム／ネコアルク",
-		"tr_text": "",
+		"tr_text": "Mag Form/Neco-Arc",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": ""
 	}

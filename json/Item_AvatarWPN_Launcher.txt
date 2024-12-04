@@ -457,7 +457,7 @@
 	{
 		"assign": "109010015",
 		"jp_text": "＊第七聖典・衝突死（ブレイク）",
-		"tr_text": "",
+		"tr_text": "＊7th Holy Scripture (Break)",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ランチャー<c>",
 		"tr_explain": ""
 	}

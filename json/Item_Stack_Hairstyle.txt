@@ -16018,14 +16018,14 @@
 	{
 		"assign": "315010445",
 		"jp_text": "有間都古ヘアー",
-		"tr_text": "",
+		"tr_text": "Miyako Arima Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010446",
 		"jp_text": "死徒ノエルヘアー",
-		"tr_text": "",
+		"tr_text": "Dead Apostle Noel Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},

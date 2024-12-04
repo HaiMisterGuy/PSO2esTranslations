@@ -44018,84 +44018,84 @@
 	{
 		"assign": "335011685",
 		"jp_text": "有間都古の服[Se]",
-		"tr_text": "",
+		"tr_text": "Miyako Arima's Clothes [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011686",
 		"jp_text": "有間都古の服/2[Se]",
-		"tr_text": "",
+		"tr_text": "Miyako Arima's Clothes/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011687",
 		"jp_text": "有間都古の服/B[Se]",
-		"tr_text": "",
+		"tr_text": "Miyako Arima's Clothes/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011688",
 		"jp_text": "有間都古の服/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Miyako Arima's Clothes/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011689",
 		"jp_text": "死徒ノエルの服[Se]",
-		"tr_text": "",
+		"tr_text": "Dead Apostle Noel's Clothes [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011690",
 		"jp_text": "死徒ノエルの服/2[Se]",
-		"tr_text": "",
+		"tr_text": "Dead Apostle Noel's Clothes/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011691",
 		"jp_text": "死徒ノエルの服/B[Se]",
-		"tr_text": "",
+		"tr_text": "Dead Apostle Noel's Clothes/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011692",
 		"jp_text": "死徒ノエルの服/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Dead Apostle Noel's Clothes/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011693",
 		"jp_text": "完全武装シエルの戦闘服[Se]",
-		"tr_text": "",
+		"tr_text": "Powered Ciel's Battle Attire [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011694",
 		"jp_text": "完全武装シエルの戦闘服/2[Se]",
-		"tr_text": "",
+		"tr_text": "Powered Ciel's Battle Attire/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011695",
 		"jp_text": "完全武装シエルの戦闘服/B[Se]",
-		"tr_text": "",
+		"tr_text": "Powered Ciel's Battle Attire/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011696",
 		"jp_text": "完全武装シエルの戦闘服/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Powered Ciel's Battle Attire/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},

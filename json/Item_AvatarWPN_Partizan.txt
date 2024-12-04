@@ -506,7 +506,7 @@
 	{
 		"assign": "103010033",
 		"jp_text": "＊死徒ノエルの槍",
-		"tr_text": "",
+		"tr_text": "＊Dead Apostle Noel's Spear",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／ソード　ほか<c>",
 		"tr_explain": ""
 	},
