@@ -3920,6 +3920,11 @@
 		"tr_text": "Superior Banther Donna"
 	},
 	{
+		"assign": "PantherBRareMC0Ex",
+		"jp_text": "覇滅バンサ・ドンナEx",
+		"tr_text": ""
+	},
+	{
 		"assign": "PantherBRareMC1",
 		"jp_text": "覇滅バンサ・ドンナ",
 		"tr_text": "Superior Banther Donna"
@@ -4108,6 +4113,11 @@
 		"assign": "MachineLittleBossRareMC2",
 		"jp_text": "覇滅エンブリオヴァーダー",
 		"tr_text": "Superior Embryo Vardha"
+	},
+	{
+		"assign": "MachineLittleBossRareMC2Ex",
+		"jp_text": "覇滅エンブリオヴァーダーEx",
+		"tr_text": ""
 	},
 	{
 		"assign": "UltMechaPanthBusterRareLD0",
@@ -4668,6 +4678,11 @@
 		"assign": "Mono2XcutionerRareSPD0",
 		"jp_text": "狂暴アガタ・ジグモリンデ",
 		"tr_text": "Violent Agata Zigmorinde"
+	},
+	{
+		"assign": "Mono2XcutionerRareSPD0Ex",
+		"jp_text": "狂暴アガタ・ジグモリンデEx",
+		"tr_text": ""
 	},
 	{
 		"assign": "Mono2XcutionerRareAN0",

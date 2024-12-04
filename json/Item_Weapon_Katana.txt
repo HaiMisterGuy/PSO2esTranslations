@@ -1757,6 +1757,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "114010073",
+		"jp_text": "トワル・ブラウリーヒカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "114010058",
 		"jp_text": "コルボ・ラルースRe-Lカタナ",
 		"tr_text": "Carbo Larousse Re-L Katana",
@@ -1858,6 +1865,13 @@
 		"assign": "114010101",
 		"jp_text": "マルチウェポン代用材（カタナ）",
 		"tr_text": "Multi-weapon Substitute (Katana)",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010102",
+		"jp_text": "エピス・イリニオンカタナ",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	}
