@@ -32,7 +32,7 @@ LANG = 2
 root_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Path of main game file CN respository (Won't affect other modes)
-PSO2CN_path = os.path.abspath(os.path.join(root_dir, os.pardir, os.pardir, os.pardir, r"gitee\PSO2_CHN_Translation"))
+PSO2CN_path = os.path.abspath(os.path.join(root_dir, os.pardir, os.pardir, r"PSO2_CHN_Translation"))
 # URL of main game file JP/EN respository
 PSO2EN_url = "https://raw.githubusercontent.com/Arks-Layer/PSO2ENPatchCSV/"
 
@@ -582,43 +582,24 @@ ca_itypes = {
     "Lightning": ("雷", "雷", "Lightning"),
     "Light": ("光", "光", "Light"),
     "Dark": ("闇", "暗", "Dark")}
-ca_itypes_order = {
+ca_itypes_order = [
     # Update 0
-    # Loop 1
-    P.closedopen(10, 130): "Fire",
-    P.closedopen(130, 240): "Ice",
-    P.closedopen(240, 350): "Wind",
-    P.closedopen(350, 470): "Lightning",
-    P.closedopen(470, 580): "Light",
-    P.closedopen(580, 710): "Dark",
-    # Loop 2
-    P.closedopen(710, 720): "Ice",
-    P.closedopen(720, 730): "Lightning",
-    P.closedopen(730, 740): "Light",
-    P.closedopen(740, 750): "Dark",
-    # Loop 3
-    P.closedopen(750, 790): "Fire",
-    P.closedopen(790, 830): "Ice",
-    P.closedopen(830, 880): "Wind",
-    P.closedopen(880, 920): "Lightning",
-    P.closedopen(920, 960): "Light",
-    P.closedopen(960, 1010): "Dark",
-    # Loop 3
-    P.closedopen(750, 790): "Fire",
-    P.closedopen(790, 830): "Ice",
-    P.closedopen(830, 880): "Wind",
-    P.closedopen(880, 920): "Lightning",
-    P.closedopen(920, 960): "Light",
-    P.closedopen(960, 1010): "Dark",
-    # Update 1
-    P.closedopen(1010, 1040): "Fire",
-    P.closedopen(1040, 1090): "Ice",
-    P.closedopen(1090, 1110): "Wind",
-    P.closedopen(1110, 1130): "Lightning",
-    P.closedopen(1130, 1150): "Light",
-    P.closedopen(1150, 99999): "Dark",
-    }
-
+    (10, "Fire"), (130, "Ice"), (240, "Wind"), (350, "Lightning"), (470, "Light"), (580, "Dark"),
+    (710, "Ice"), (720, "Lightning"), (730, "Light"), (740, "Dark"),
+    (750, "Fire"), (790, "Ice"), (830, "Wind"), (880, "Lightning"), (920, "Light"), (960, "Dark"),
+    (750, "Fire"), (790, "Ice"), (830, "Wind"), (880, "Lightning"), (920, "Light"), (960, "Dark"),
+    # Update 1 (NGS Chars)
+    (1010, "Fire"), (1040, "Ice"), (1090, "Wind"), (1110, "Lightning"), (1130, "Light"), (1150, "Dark"),
+    # Update 2 (PSO2es Chars, MELTY BLOOD Collab)
+    (1170, "Fire"), (1190, "Ice"), (1210, "Lightning"), (1240, "Wind"), (1260, "Light"), (1300, "Dark"),
+    (1321, "Ice"), (1331, "Dark"),
+    # Future updates
+    (99999, None)
+]
+ca_itypes_interval = {
+    P.closedopen(start, end): ele_type
+    for (start, ele_type), (end, _) in zip(ca_itypes_order, ca_itypes_order[1:])
+}
 # Names of items
 mo_names = ["{jp_itype}：{jp_text}", "{tr_itype}：{tr_text}", "{tr_itype}: {tr_text}"]
 bp_names = ph_names = bg_names = aug_names = ou_m_names = ou_f_names = cp_m_names = cp_f_names = mou_names = ear_names = horn_names = body_names = ma_names = sv_names = ha_names = vo_names = ["{jp_text}", "{tr_text}", "{tr_text}"]
@@ -716,7 +697,7 @@ vo_explains = [
 
 # [FUNCTION] Conditions and explains of special items
 def edit_sp_explains(prefix, jp_text, explains):
-    if prefix == "aug" and jp_text.endswith(("フュージア", "ソブリナ", "ファウンデーター", "ドライエ")):
+    if prefix == "aug" and jp_text.endswith(("フュージア", "ソブリナ", "ファウンデーター", "ドライエ", "アセプター")):
         explains = [
             f"{explains[0]}\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
             f"{explains[1]}\n也可在道具實驗室的“交換強化素材”處\n用於交換特定的膠囊。",
@@ -817,9 +798,9 @@ ha_tr_target_texts = get_translation(ha_jp_target_lines, common_tr_lines)[0]
 vo_tr_target_texts = get_translation(vo_jp_target_lines, charamake_parts_tr_lines)[0]
 
 # [FUNCTION] Conditions of force to change the tradable info (only for CN)
-def extra_condition(prefix, jp_text):
+def extra_condition(prefix, jp_text, text_id):
     if prefix == "mo":
-       return jp_text.endswith(("EX"))
+        return jp_text.endswith(("EX"))
     elif prefix == "bp":
         return (jp_text.startswith((
         "エアル：", "リテナ：", "ノクト：", "エウロ：", "クヴァル：", "ピエド：", "ワフウ：",
@@ -851,7 +832,7 @@ def extra_condition(prefix, jp_text):
     elif prefix == "body":
         return jp_text == ""
     elif prefix == "ca":
-        return jp_text == jp_text
+        return text_id.endswith("0#0")
     elif prefix == "ma":
         return jp_text == ""
     elif prefix == "sv":
@@ -906,7 +887,7 @@ def main_generate_NGS(prefix):
             tr_itype = cp_itypes[itype][LANG]
         elif prefix == "ca":
             int_id = int(text_id.split("#")[0])
-            for interval, ele_type in ca_itypes_order.items():
+            for interval, ele_type in ca_itypes_interval.items():
                 if int_id in interval:
                     itype = ele_type
             jp_itype = ca_itypes[itype][0]
@@ -956,9 +937,9 @@ def main_generate_NGS(prefix):
         if repeated == True:
             continue 
         # Get tradable info from global variable
+        if extra_condition(prefix, jp_text, text_id):
+            trade_infos[names[0]] = "Untradable"
         trade_info = trade_infos.get(names[0], "")
-        if extra_condition(prefix, jp_text):
-            trade_info = "Untradable"
         # Record descriptions
         rec_descs = record_desc(path, texts[0])
         # Item format
@@ -1029,9 +1010,9 @@ def main_edit_Stack(prefix):
             explains = edit_sp_explains(prefix, jp_text, explains)
 
             # Get tradable info from global variable
+            if extra_condition(prefix, jp_text, text_id):
+                trade_infos[names[0]] = "Untradable"
             trade_info = trade_infos.get(names[0], "")
-            if extra_condition(prefix, jp_text):
-                trade_info = "Untradable"
             # Record descriptions
             rec_descs = record_desc(path, texts[0])
 
