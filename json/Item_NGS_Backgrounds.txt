@@ -322,6 +322,27 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "Bg「メルティブラッドＡ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new ARKS Card background\nfor all characters on your account.",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「メルティブラッドＢ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new ARKS Card background\nfor all characters on your account.",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ルイノ・マスカレーダ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new ARKS Card background\nfor all characters on your account.",
+		"assign": 0
+	},
+	{
 		"jp_text": "Bg「リリーパＡ」",
 		"tr_text": "Bg \"Lillipans A\"",
 		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
