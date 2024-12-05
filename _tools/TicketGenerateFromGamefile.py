@@ -203,7 +203,7 @@ def parse_data(file_path, file_type):
                                         ['マイショップ出品不可', '初期', 'alt="GP"', 'alt="SG"', '交換</td>', '季節イベント</td>','トレジャースクラッチ', 'SPスクラッチ</td>', '開発準備特別票</td>', 'クラス育成特別プログラム', '初期登録</td>']):
                                         trade_infos[jp_text] = "Untradable"
                                 elif headname == 'Ca':
-                                    match = re.match(r'Ca「(.*?)([0-9])：(.*?)」', n_line)
+                                    match = re.match(r'Ca「(.*?)([0-9])R?：(.*?)」', n_line)
                                     if match:
                                         jp_text = match.group(3)
                                         jp_itype = match.group(1)
@@ -709,6 +709,16 @@ def edit_sp_explains(prefix, jp_text, explains):
             f"{explains[2]}\n<yellow>※Uses adjusted weapon positions.<c>"]
     return explains
 
+# [FUNCTION] Special item texts of special items
+def edit_sp_texts(prefix, jp_text, tr_text):
+    if prefix == "ca" and jp_text == "アルクェイド・ブリュンスタッド":
+        sp_texts = ["アルクェイド", "愛爾奎特", "Arcueid"]
+    else: 
+        sp_texts = [jp_text, tr_text, tr_text]
+    jp_text = sp_texts[0]
+    tr_text = sp_texts[LANG]
+    return jp_text, tr_text
+
 # Find target JP lines
 mo_jp_target_lines = [
     (text_id, jp_text) for text_id, jp_text in common_jp_lines
@@ -871,6 +881,8 @@ def main_generate_NGS(prefix):
         # Get translated text from texts
         if LANG != 0:
             tr_text = tr_target_texts[i]
+        # Edit special texts of special item
+        jp_text, tr_text = edit_sp_texts(prefix, jp_text, tr_text)
         # Get category and the category name for certain prefixes
         if prefix == "mo":
             itype = text_id.split("_")[1]
