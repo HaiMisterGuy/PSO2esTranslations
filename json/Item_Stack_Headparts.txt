@@ -4750,7 +4750,7 @@
 		"jp_text": "シュディング・ヘッド/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks new head parts for use."
 	},
 	{
 		"assign": "316010080",
@@ -5023,13 +5023,13 @@
 		"jp_text": "シュディング・ヘッド/C",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks new head parts for use."
 	},
 	{
 		"assign": "316010122",
 		"jp_text": "シュディング・ヘッド/D",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks new head parts for use."
 	}
 ]

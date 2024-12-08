@@ -5877,20 +5877,20 @@
 		"jp_text": "ユウゲンバオリステッカー",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいステッカーが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks a new sticker for use."
 	},
 	{
 		"assign": "317010062",
 		"jp_text": "N-マリーネエンブレム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいステッカーが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks a new sticker for use."
 	},
 	{
 		"assign": "317010063",
 		"jp_text": "N-フリートエンブレム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいステッカーが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks a new sticker for use."
 	}
 ]

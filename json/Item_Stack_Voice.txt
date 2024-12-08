@@ -17875,20 +17875,20 @@
 		"jp_text": "T2フリーレンボイス",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ種﨑 敦美",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nUsable by all characters.\nCV: Atsumi Tanezaki"
 	},
 	{
 		"assign": "318010159",
 		"jp_text": "T2フェルンボイス",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ市ノ瀬 加那",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nUsable by all characters.\nCV: Kana Ichinose"
 	},
 	{
 		"assign": "318010161",
 		"jp_text": "T1シュタルクボイス",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ小林 千晃",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nUsable by all characters.\nCV: Chiaki Kobayashi"
 	}
 ]
