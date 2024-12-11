@@ -204,7 +204,7 @@
 	},
 	{
 		"jp_text": "BP「カガミモチ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kagami Mochi\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -274,7 +274,7 @@
 	},
 	{
 		"jp_text": "BP「モミジー」",
-		"tr_text": "",
+		"tr_text": "BP \"Maple\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -687,7 +687,7 @@
 	},
 	{
 		"jp_text": "BP「ツマラナイモノ」",
-		"tr_text": "",
+		"tr_text": "BP \"Stuff\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -918,14 +918,14 @@
 	},
 	{
 		"jp_text": "BP「ラッピーピンクマグカップ」",
-		"tr_text": "",
+		"tr_text": "BP \"Pink Rappy Mug\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ラッピーブルーマグカップ」",
-		"tr_text": "",
+		"tr_text": "BP \"Blue Rappy Mug\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1212,9 +1212,9 @@
 	},
 	{
 		"jp_text": "BP「クラシックベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Classic Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -1478,7 +1478,7 @@
 	},
 	{
 		"jp_text": "BP「タンス」",
-		"tr_text": "",
+		"tr_text": "BP \"Chest of Drawers\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1542,8 +1542,8 @@
 	{
 		"jp_text": "BP「スイートベッドB」",
 		"tr_text": "BP \"Sweet Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -1583,35 +1583,35 @@
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドベッド」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Exotic Traditional Bed\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドソファ」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Sofa\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドテーブル」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Table\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドマット」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Mat\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドシェルフ」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Shelf\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1654,8 +1654,8 @@
 	{
 		"jp_text": "BP「ウェスタンベッドB」",
 		"tr_text": "BP \"Western Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -1688,9 +1688,9 @@
 	},
 	{
 		"jp_text": "BP「ウェスタンベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Western Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -1730,28 +1730,28 @@
 	},
 	{
 		"jp_text": "BP「フトンB」",
-		"tr_text": "",
+		"tr_text": "BP \"Futon B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ワノローテーブルB」",
-		"tr_text": "",
+		"tr_text": "BP \"Far Eastern Low Table B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ワノマットB」",
-		"tr_text": "",
+		"tr_text": "BP \"Far Eastern Mat B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「タンスB」",
-		"tr_text": "",
+		"tr_text": "BP \"Chest of Drawers B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1773,8 +1773,8 @@
 	{
 		"jp_text": "BP「ジェイドバス」",
 		"tr_text": "BP \"Jade Bath\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n入浴できるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto take a bath.",
 		"assign": 0
 	},
 	{
@@ -1786,23 +1786,23 @@
 	},
 	{
 		"jp_text": "BP「スペースシップチェア」",
-		"tr_text": "",
+		"tr_text": "BP \"Spaceship Chair\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「スペースシップベッド」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Spaceship Bed\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「スペースシップバスタブ」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Spaceship Bathtub\"",
+		"jp_explain": "アクセスすると\n入浴できるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto take a bath.",
 		"assign": 0
 	},
 	{
@@ -2494,8 +2494,8 @@
 	{
 		"jp_text": "BP「オールドベッドB」",
 		"tr_text": "BP \"Old Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3145,8 +3145,8 @@
 	{
 		"jp_text": "BP「ナイトクラブベッドB」",
 		"tr_text": "BP \"Nightclub Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3607,8 +3607,8 @@
 	{
 		"jp_text": "BP「コフィンベッド」",
 		"tr_text": "BP \"Coffin Bed\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
