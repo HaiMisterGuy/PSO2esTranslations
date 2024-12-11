@@ -99,98 +99,98 @@
 	},
 	{
 		"jp_text": "Sv「超・創世祭記念」",
-		"tr_text": "Sv \"Super Genesis Festival Commemorative\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「メルティブラッドキービジュアルA」",
-		"tr_text": "Sv \"Melty Blood Key Visual A\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「メルティブラッドキービジュアルB」",
-		"tr_text": "Sv \"Melty Blood Key Visual B\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「ダーカーバスターズ：アニバーサリー」",
-		"tr_text": "Sv \"Darker Busters: Anniversary\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「ジェネ：エターナルオース」",
-		"tr_text": "Sv \"Gene: Eternal Oath\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「夏潮のアネット：サマーバケーション」",
-		"tr_text": "Sv \"Summer Tide Annette: Summer Vacation\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「セラフィ：サマーバケーション」",
-		"tr_text": "Sv \"Seraphy: Summer Vacation\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「アフタル：サマーバケーション」",
-		"tr_text": "Sv \"Akhtar: Summer Vacation\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「ホルシード：ニューイヤー」",
-		"tr_text": "Sv \"Khorshid: New Year\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「ジェネ：メモリアル」",
-		"tr_text": "Sv \"Gene: Memorial\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「アネット：バレンタイン」",
-		"tr_text": "Sv \"Annette: Valentine's\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「アフタル：ニューイヤー」",
-		"tr_text": "Sv \"Akhtar: New Year\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「ホルシード：サマーバケーション」",
-		"tr_text": "Sv \"Khorshid: Summer Vacation\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Sv「望海のセラフィ：サマーバケーション」",
-		"tr_text": "Sv \"Sea Dreamer Seraphy: Summer Vacation\"",
+		"tr_text": "",
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0

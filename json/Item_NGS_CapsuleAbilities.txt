@@ -4383,210 +4383,210 @@
 	},
 	{
 		"jp_text": "C/グラングラディエ・ソールLC",
-		"tr_text": "C/Gran Gladier LC",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ルクスハルフィニリアLC",
-		"tr_text": "C/Lux Halphiniria LC",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/グランギガス・マエスティLC",
-		"tr_text": "C/Gran Gigas Maiste LC",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/グランドレド・キーパⅡLC",
-		"tr_text": "C/Gran Dread Keeper II LC",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ギガドライエルLC",
-		"tr_text": "C/Gigadryl LC",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ダンタリアセプター",
-		"tr_text": "C/Dantalionceptor",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.\nCan also be exchanged for specific\ncapsules at the Item Lab.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/マシスグラディエ・ソール",
-		"tr_text": "C/Mascis Gladier Soul",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ディプノスセプター",
-		"tr_text": "C/Dipnosceptor",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.\nCan also be exchanged for specific\ncapsules at the Item Lab.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/マシスハルフィニリア",
-		"tr_text": "C/Mascis Halphiniria",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ダシャ・ディアブルDP",
-		"tr_text": "C/Dasha Diable DP",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/シャホウ・ディアブルDP",
-		"tr_text": "C/Shahou Diable DP",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ダホウ・ディアブルDP",
-		"tr_text": "C/Dahou Diable DP",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/パワーDP",
-		"tr_text": "C/Power DP",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/シュートDP",
-		"tr_text": "C/Shoot DP",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/テクニックDP",
-		"tr_text": "C/Technique DP",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/グラングラディエ・ソールLCS",
-		"tr_text": "C/Gran Gladier LC S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ルクスハルフィニリアLCS",
-		"tr_text": "C/Lux Halphiniria LC S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/グランギガス・マエスティLCS",
-		"tr_text": "C/Gran Gigas Maiste LC S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/グランドレド・キーパⅡLCS",
-		"tr_text": "C/Gran Dread Keeper II LC S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ギガドライエルLCS",
-		"tr_text": "C/Gigadryl LC S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/マシスグラディエ・ソールS",
-		"tr_text": "C/Mascis Gladier Soul S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/マシスハルフィニリアS",
-		"tr_text": "C/Mascis Halphiniria S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ダシャ・ディアブルDPS",
-		"tr_text": "C/Dasha Diable DP S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/シャホウ・ディアブルDPS",
-		"tr_text": "C/Shahou Diable DP S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ダホウ・ディアブルDPS",
-		"tr_text": "C/Dahou Diable DP S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/パワーDPS",
-		"tr_text": "C/Power DP S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/シュートDPS",
-		"tr_text": "C/Shoot DP S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/テクニックDPS",
-		"tr_text": "C/Technique DP S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ハイスティラ・ドミナLC",
-		"tr_text": "C/Histira Domina LC",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/ハイスティラ・ドミナLCS",
-		"tr_text": "C/Histira Domina LC S",
+		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
