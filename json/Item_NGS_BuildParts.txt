@@ -1842,7 +1842,7 @@
 	},
 	{
 		"jp_text": "BP「イルミネーションボード」",
-		"tr_text": "",
+		"tr_text": "BP \"Illumination Board\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2654,7 +2654,7 @@
 	},
 	{
 		"jp_text": "BP「フラミンゴの置物」",
-		"tr_text": "",
+		"tr_text": "BP \"Flamingo Figurine\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2682,7 +2682,7 @@
 	},
 	{
 		"jp_text": "BP「トランク型レコード」",
-		"tr_text": "",
+		"tr_text": "BP \"Suitcase Turntable\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2696,7 +2696,7 @@
 	},
 	{
 		"jp_text": "BP「オールドランプ」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Lamp\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -3578,7 +3578,7 @@
 	},
 	{
 		"jp_text": "BP「ファイトリング」",
-		"tr_text": "",
+		"tr_text": "BP \"Fight Ring\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -3781,21 +3781,21 @@
 	},
 	{
 		"jp_text": "BP「黄金色の彫像」",
-		"tr_text": "",
+		"tr_text": "BP \"Golden Statue\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「朱色の巨大門」",
-		"tr_text": "",
+		"tr_text": "BP \"Huge Vermillion Gate\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「四灯天吊灯」",
-		"tr_text": "",
+		"tr_text": "BP \"Four Hanging Heaven Lamps\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4502,7 +4502,7 @@
 	},
 	{
 		"jp_text": "BP「クツチタキャロル」",
-		"tr_text": "",
+		"tr_text": "BP \"Stocking Carol\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4810,7 +4810,7 @@
 	},
 	{
 		"jp_text": "BP「オメガフクロウ」",
-		"tr_text": "",
+		"tr_text": "BP \"Omega Owl\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4852,14 +4852,14 @@
 	},
 	{
 		"jp_text": "BP「アドベントカレンダー」",
-		"tr_text": "",
+		"tr_text": "BP \"Advent Calendar\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファーストバーガー」",
-		"tr_text": "",
+		"tr_text": "BP \"Fast Food Burger\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11663,28 +11663,28 @@
 	},
 	{
 		"jp_text": "BP「サーベイランスアイ」",
-		"tr_text": "",
+		"tr_text": "BP \"Surveillance Eye\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「サーベイランスアイ/B」",
-		"tr_text": "",
+		"tr_text": "BP \"Surveillance Eye/B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ホリデベア」",
-		"tr_text": "",
+		"tr_text": "BP \"Holiday Bear\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フローティングキャンドル」",
-		"tr_text": "",
+		"tr_text": "BP \"Floating Candle\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0

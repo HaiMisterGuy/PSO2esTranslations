@@ -3315,13 +3315,13 @@
 		"jp_text": "マグフォルム／フェニチェマキーナ",
 		"tr_text": "",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
-		"tr_explain": ""
+		"tr_explain": "A device that changes a Mag's form.\n<yellow>※Only usable in NGS.<c>"
 	},
 	{
 		"assign": "312010694",
 		"jp_text": "マグフォルム／ネコアルク",
 		"tr_text": "Mag Form/Neco-Arc",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
-		"tr_explain": ""
+		"tr_explain": "A device that changes a Mag's form.\n<yellow>※Only usable in NGS.<c>"
 	}
 ]
