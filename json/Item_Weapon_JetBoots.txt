@@ -1766,7 +1766,7 @@
 	{
 		"assign": "116010093",
 		"jp_text": "エピス・イリニオンブーツ",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Boots",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

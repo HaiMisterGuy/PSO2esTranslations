@@ -1822,7 +1822,7 @@
 	{
 		"assign": "17010093",
 		"jp_text": "エピス・イリニオンスラッシュ",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Slash",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

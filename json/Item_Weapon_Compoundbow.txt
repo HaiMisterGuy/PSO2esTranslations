@@ -1836,7 +1836,7 @@
 	{
 		"assign": "115010087",
 		"jp_text": "エピス・イリニオンボウ",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Bow",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

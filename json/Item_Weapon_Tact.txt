@@ -709,7 +709,7 @@
 	{
 		"assign": "118010083",
 		"jp_text": "エピス・イリニオンタクト",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Takt",
 		"jp_explain": "",
 		"tr_explain": ""
 	}

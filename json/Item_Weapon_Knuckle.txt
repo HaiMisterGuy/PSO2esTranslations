@@ -1913,7 +1913,7 @@
 	{
 		"assign": "16010100",
 		"jp_text": "エピス・イリニオンナックル",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Knuckles",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

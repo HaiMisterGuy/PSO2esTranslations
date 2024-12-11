@@ -2053,7 +2053,7 @@
 	{
 		"assign": "113010137",
 		"jp_text": "エピス・イリニオンウォンド",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Wand",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

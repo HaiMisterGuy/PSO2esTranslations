@@ -2200,7 +2200,7 @@
 	{
 		"assign": "111010131",
 		"jp_text": "エピス・イリニオンロッド",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Rod",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

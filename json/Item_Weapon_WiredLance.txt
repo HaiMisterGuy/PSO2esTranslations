@@ -1899,7 +1899,7 @@
 	{
 		"assign": "12010093",
 		"jp_text": "エピス・イリニオンワイヤー",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Wire",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

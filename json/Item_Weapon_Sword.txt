@@ -2130,7 +2130,7 @@
 	{
 		"assign": "11010143",
 		"jp_text": "エピス・イリニオンソード",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Sword",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

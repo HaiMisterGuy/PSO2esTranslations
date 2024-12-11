@@ -1948,7 +1948,7 @@
 	{
 		"assign": "13010126",
 		"jp_text": "エピス・イリニオンスピア",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Spear",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

@@ -1871,7 +1871,7 @@
 	{
 		"assign": "114010102",
 		"jp_text": "エピス・イリニオンカタナ",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Katana",
 		"jp_explain": "",
 		"tr_explain": ""
 	}

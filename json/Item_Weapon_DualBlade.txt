@@ -1780,7 +1780,7 @@
 	{
 		"assign": "117010115",
 		"jp_text": "エピス・イリニオンブレード",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Blades",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

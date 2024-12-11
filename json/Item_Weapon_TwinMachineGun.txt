@@ -2207,7 +2207,7 @@
 	{
 		"assign": "110010105",
 		"jp_text": "エピス・イリニオンマシンガン",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Machineguns",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

@@ -1941,7 +1941,7 @@
 	{
 		"assign": "15010128",
 		"jp_text": "エピス・イリニオンセイバー",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Saber",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

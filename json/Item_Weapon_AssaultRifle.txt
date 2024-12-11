@@ -2095,7 +2095,7 @@
 	{
 		"assign": "18010116",
 		"jp_text": "エピス・イリニオンライフル",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Rifle",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

@@ -1955,7 +1955,7 @@
 	{
 		"assign": "14010118",
 		"jp_text": "エピス・イリニオンダガー",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Daggers",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

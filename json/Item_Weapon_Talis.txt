@@ -2046,14 +2046,14 @@
 	{
 		"assign": "112010088",
 		"jp_text": "エピス・イリニオンタリス",
-		"tr_text": "",
+		"tr_text": "Epice Illinion Talis",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112010059",
 		"jp_text": "トワル・トレファルタリス",
-		"tr_text": "",
+		"tr_text": "Towaru",
 		"jp_explain": "",
 		"tr_explain": ""
 	}
