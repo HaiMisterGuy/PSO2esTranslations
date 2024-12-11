@@ -1611,217 +1611,217 @@
 	},
 	{
 		"jp_text": "Ca「炎2：モア」",
-		"tr_text": "",
+		"tr_text": "Ca \"Fire 2: More\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「炎2R：モア」",
-		"tr_text": "",
+		"tr_text": "Ca \"Fire 2R: More\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「炎3：アヴェンジャー」",
-		"tr_text": "",
+		"tr_text": "Ca \"Fire 3: Avenger\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「炎3R：アヴェンジャー」",
-		"tr_text": "",
+		"tr_text": "Ca \"Fire 3R: Avenger\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「氷2：アネット」",
-		"tr_text": "",
+		"tr_text": "Ca \"Ice 2: Annette\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「氷2R：アネット」",
-		"tr_text": "",
+		"tr_text": "Ca \"Ice 2R: Annette\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「氷4：スペース・ツナ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Ice 4: Space Tuna\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「氷4R：スペース・ツナ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Ice 4R: Space Tuna\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「雷1：リーン」",
-		"tr_text": "",
+		"tr_text": "Ca \"Lightning 1: Lien\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「雷1R：リーン」",
-		"tr_text": "",
+		"tr_text": "Ca \"Lightning 1R: Lien\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「雷2：ブルーノ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Lightning 2: Bruno\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「雷2R：ブルーノ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Lightning 2R: Bruno\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「雷2：ニレンカムイ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Lightning 2: Twin Kamui\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「雷2R：ニレンカムイ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Lightning 2R: Twin Kamui\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「風3：アフタル」",
-		"tr_text": "",
+		"tr_text": "Ca \"Wind 3: Akhtar\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「風3R：アフタル」",
-		"tr_text": "",
+		"tr_text": "Ca \"Wind 3R: Akhtar\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「風4：カザミノタチ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Wind 4: Kazami-no-tachi\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「風4R：カザミノタチ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Wind 4R: Kazami-no-tachi\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光3：ジェネ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 3: Gene\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光3R：ジェネ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 3R: Gene\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光3：ノクスカディナ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 3: Nox Cadina\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光3R：ノクスカディナ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 3R: Nox Cadina\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光4：ヤスミノコフ8000C」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 4: Yasminkov 8000C\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光4R：ヤスミノコフ8000C」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 4R: Yasminkov 8000C\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光5：シューティングドライブ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 5: Shooting Drive\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「光5R：シューティングドライブ」",
-		"tr_text": "",
+		"tr_text": "Ca \"Light 5R: Shooting Drive\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「闇3：ホルシード」",
-		"tr_text": "",
+		"tr_text": "Ca \"Dark 3: Khorshid\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「闇3R：ホルシード」",
-		"tr_text": "",
+		"tr_text": "Ca \"Dark 3R: Khorshid\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「闇5：ヤミガラス」",
-		"tr_text": "",
+		"tr_text": "Ca \"Dark 5: Yamigarasu\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「闇5R：ヤミガラス」",
-		"tr_text": "",
+		"tr_text": "Ca \"Dark 5R: Yamigarasu\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "Ca「氷5R：遠野志貴」",
-		"tr_text": "",
+		"tr_text": "Ca \"Ice 5R: Shiki Tohno\"",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card for\nall characters on your account.",
 		"assign": 0
