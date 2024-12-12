@@ -11278,42 +11278,42 @@
 	},
 	{
 		"jp_text": "BP「怪獣８号アクスタ」",
-		"tr_text": "BP \"Kaiju No. 8 Acrylic Stand"",
+		"tr_text": "BP \"Kaiju No. 8 Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「日比野カフカアクスタ」",
-		"tr_text": "BP \"Kafka Hibino Acrylic Stand"",
+		"tr_text": "BP \"Kafka Hibino Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「市川レノアクスタ」",
-		"tr_text": "BP \"Reno Ichikawa Acrylic Stand"",
+		"tr_text": "BP \"Reno Ichikawa Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「四ノ宮キコルアクスタ」",
-		"tr_text": "BP \"Kikoru Shinomiya Acrylic Stand"",
+		"tr_text": "BP \"Kikoru Shinomiya Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「亜白ミナアクスタ」",
-		"tr_text": "BP \"Mina Ashiro Acrylic Stand"",
+		"tr_text": "BP \"Mina Ashiro Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「保科宗四郎アクスタ」",
-		"tr_text": "BP \"Soshiro Hoshina Acrylic Stand"",
+		"tr_text": "BP \"Soshiro Hoshina Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11593,21 +11593,21 @@
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠアクスタ」",
-		"tr_text": "BP \"Durga I Acrylic Stand"",
+		"tr_text": "BP \"Durga I Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠGアクスタ」",
-		"tr_text": "BP \"Durga IG Acrylic Stand"",
+		"tr_text": "BP \"Durga IG Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠG-DQVアクスタ」",
-		"tr_text": "BP \"Durga IG-DQV Acrylic Stand"",
+		"tr_text": "BP \"Durga IG-DQV Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11824,56 +11824,56 @@
 	},
 	{
 		"jp_text": "BP「有間都古アクスタ」",
-		"tr_text": "BP \"Miyako Arima Acrylic Stand"",
+		"tr_text": "BP \"Miyako Arima Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「死徒ノエルアクスタ」",
-		"tr_text": "BP \"Dead Apostle Noel Acrylic Stand"",
+		"tr_text": "BP \"Dead Apostle Noel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「完全武装シエルアクスタ」",
-		"tr_text": "BP \"Powered Ciel Acrylic Stand"",
+		"tr_text": "BP \"Powered Ciel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ネコアルクアクスタ」",
-		"tr_text": "BP \"Neco-Arc Acrylic Stand"",
+		"tr_text": "BP \"Neco-Arc Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「遠野志貴アクスタ」",
-		"tr_text": "BP \"Shiki Tohno Acrylic Stand"",
+		"tr_text": "BP \"Shiki Tohno Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「アルクェイドアクスタ」",
-		"tr_text": "BP \"Arcueid Acrylic Stand"",
+		"tr_text": "BP \"Arcueid Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「遠野秋葉アクスタ」",
-		"tr_text": "BP \"Akiha Tohno Acrylic Stand"",
+		"tr_text": "BP \"Akiha Tohno Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シエルアクスタ」",
-		"tr_text": "BP \"Ciel Acrylic Stand"",
+		"tr_text": "BP \"Ciel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11943,28 +11943,28 @@
 	},
 	{
 		"jp_text": "BP「フリーレンアクスタ」",
-		"tr_text": "BP \"Frieren Acrylic Stand"",
+		"tr_text": "BP \"Frieren Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フェルンアクスタ」",
-		"tr_text": "BP \"Fern Acrylic Stand"",
+		"tr_text": "BP \"Fern Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シュタルクアクスタ」",
-		"tr_text": "BP \"Stark Acrylic Stand"",
+		"tr_text": "BP \"Stark Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ヒンメルアクスタ」",
-		"tr_text": "BP \"Himmel Acrylic Stand"",
+		"tr_text": "BP \"Himmel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
