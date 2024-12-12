@@ -11824,56 +11824,56 @@
 	},
 	{
 		"jp_text": "BP「有間都古アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Miyako Arima Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「死徒ノエルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Dead Apostle Noel Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「完全武装シエルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Powered Ciel Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ネコアルクアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Neco-Arc Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「遠野志貴アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Shiki Tohno Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「アルクェイドアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Arcueid Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「遠野秋葉アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Akiha Tohno Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シエルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Ciel Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11901,28 +11901,28 @@
 	},
 	{
 		"jp_text": "BP「死徒ノエルの槍」",
-		"tr_text": "",
+		"tr_text": "BP \"Dead Apostle Noel's Spear\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「第七聖典・焼死（ブレイズ）」",
-		"tr_text": "",
+		"tr_text": "BP \"7th Holy Scripture: Death by Burning (Blaze)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「第七聖典・出血死（ブレイド）」",
-		"tr_text": "",
+		"tr_text": "BP \"7th Holy Scripture: Death by Bleeding (Blade)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「第七聖典・衝突死（ブレイク）」",
-		"tr_text": "",
+		"tr_text": "BP \"7th Holy Scripture: Death by Impact (Break)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
