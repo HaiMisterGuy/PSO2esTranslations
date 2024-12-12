@@ -569,15 +569,15 @@
 	{
 		"jp_text": "BP「ストレートベンチ」",
 		"tr_text": "BP \"Straight Bench\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「コーナーベンチ」",
 		"tr_text": "BP \"Corner Bench\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1219,49 +1219,49 @@
 	},
 	{
 		"jp_text": "BP「クラシックマットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Mat C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Classic Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックローテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Low Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックチェアC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Classic Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックナイトスタンドC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Nightstand C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックライトC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Light C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックシェルフC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Shelf C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1549,8 +1549,8 @@
 	{
 		"jp_text": "BP「スイートソファB」",
 		"tr_text": "BP \"Sweet Sofa B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1591,8 +1591,8 @@
 	{
 		"jp_text": "BP「エキゾチックトラッドソファ」",
 		"tr_text": "BP \"Exotic Traditional Sofa\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1661,8 +1661,8 @@
 	{
 		"jp_text": "BP「ウェスタンソファB」",
 		"tr_text": "BP \"Western Sofa B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1695,28 +1695,28 @@
 	},
 	{
 		"jp_text": "BP「ウェスタンソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Western Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンローテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Western Low Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンラグマットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Western Rug Mat C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンシェルフC」",
-		"tr_text": "",
+		"tr_text": "BP \"Western Shelf C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1787,8 +1787,8 @@
 	{
 		"jp_text": "BP「スペースシップチェア」",
 		"tr_text": "BP \"Spaceship Chair\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1807,7 +1807,7 @@
 	},
 	{
 		"jp_text": "BP「丸提灯」",
-		"tr_text": "",
+		"tr_text": "BP \"Paper Lantern\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1849,7 +1849,7 @@
 	},
 	{
 		"jp_text": "BP「ホリデーリース」",
-		"tr_text": "",
+		"tr_text": "BP \"Holiday Wreath\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2031,63 +2031,63 @@
 	},
 	{
 		"jp_text": "BP「レトロベッドB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Retro Bed B\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロテーブルB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Table B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロチェアB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Retro Chair B\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロキャビネットB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Cabinet B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロシャンデリアB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Chandelier B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロソファB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Retro Sofa B\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロテレビB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Television B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロキッチンB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Kitchen B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロオブジェB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Objet B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2283,70 +2283,70 @@
 	},
 	{
 		"jp_text": "BP「ファンシーベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーローテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Low Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーチェアC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーキャビネットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Cabinet C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーシャンデリアC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Chandelier C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーミニソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Mini Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーラビットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Rabbit C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシースタンドC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Stand C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシードレッサーC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Dresser C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2508,8 +2508,8 @@
 	{
 		"jp_text": "BP「オールドチェアB」",
 		"tr_text": "BP \"Old Chair B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -2529,8 +2529,8 @@
 	{
 		"jp_text": "BP「オールドベンチB」",
 		"tr_text": "BP \"Old Bench B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -2563,70 +2563,70 @@
 	},
 	{
 		"jp_text": "BP「オールドベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Old Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドチェアC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Old Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドシェルフC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Shelf C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドライトC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Light C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドベンチC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Old Bench C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドテレビC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old TV C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドキッチンC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Kitchen C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドガスポンプC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Gas Pump C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドリフリジレイターC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Refrigerator C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2668,7 +2668,7 @@
 	},
 	{
 		"jp_text": "BP「オールドスーパーカー」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Supercar\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -3131,8 +3131,8 @@
 	{
 		"jp_text": "BP「ナイトクラブチェアB」",
 		"tr_text": "BP \"Nightclub Chair B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -3152,8 +3152,8 @@
 	{
 		"jp_text": "BP「ナイトクラブソファB」",
 		"tr_text": "BP \"Nightclub Sofa B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -11419,8 +11419,8 @@
 	{
 		"jp_text": "BP「ビーチチェア」",
 		"tr_text": "BP \"Beach Chair\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
