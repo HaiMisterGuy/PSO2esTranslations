@@ -3369,8 +3369,8 @@
 	{
 		"jp_text": "BP「ウッディハンモック」",
 		"tr_text": "BP \"Woody Hammock\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3445,30 +3445,30 @@
 	},
 	{
 		"jp_text": "BP「ウッディキッチンB」",
-		"tr_text": "",
+		"tr_text": "BP \"Woody Kitchen B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「キャンプチェアB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Camp Chair B\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「キャンプテーブルB」",
-		"tr_text": "",
+		"tr_text": "BP \"Camp Table B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウッディハンモックB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Woody Hammock B\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3928,23 +3928,23 @@
 	},
 	{
 		"jp_text": "BP「保健室のベッドB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Infirmary Bed B\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「学校の机C」",
-		"tr_text": "",
+		"tr_text": "BP \"School Desk C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「学校の椅子C」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"School Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -3984,7 +3984,7 @@
 	},
 	{
 		"jp_text": "BP「学校の給食B」",
-		"tr_text": "",
+		"tr_text": "BP \"School Lunch B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4495,7 +4495,7 @@
 	},
 	{
 		"jp_text": "BP「マツタケ」",
-		"tr_text": "",
+		"tr_text": "BP \"Matutake\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -7568,7 +7568,7 @@
 	},
 	{
 		"jp_text": "BP「バルーンアート」",
-		"tr_text": "",
+		"tr_text": "BP \"Balloon Art\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -7904,7 +7904,7 @@
 	},
 	{
 		"jp_text": "BP「トナ・ラッピーぬいぐるみ」",
-		"tr_text": "",
+		"tr_text": "BP \"Tonna Rappy Plush\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11278,42 +11278,42 @@
 	},
 	{
 		"jp_text": "BP「怪獣８号アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kaiju No. 8 Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「日比野カフカアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kafka Hibino Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「市川レノアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Reno Ichikawa Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「四ノ宮キコルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kikoru Shinomiya Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「亜白ミナアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Mina Ashiro Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「保科宗四郎アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Soshiro Hoshina Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11446,42 +11446,42 @@
 	},
 	{
 		"jp_text": "BP「ソンブリーラヴェラーノ」",
-		"tr_text": "",
+		"tr_text": "BP \"Sombrila Verano\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「M.A.R.S.フライングラム」",
-		"tr_text": "",
+		"tr_text": "BP \"M.A.R.S. Flying Ram\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シャングリラ・フロンティアGL」",
-		"tr_text": "BP \"Shangri-La FrontierGL\"",
+		"tr_text": "BP \"Shangri-La Frontier GL\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シャングリラ・フロンティアB-GL」",
-		"tr_text": "BP \"Shangri-La FrontierB-GL\"",
+		"tr_text": "BP \"Shangri-La Frontier B-GL\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ティーカッププードルぬいぐるみ」",
-		"tr_text": "",
+		"tr_text": "BP \"Teacup Poodle Plush\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「インコの置物」",
-		"tr_text": "",
+		"tr_text": "BP \"Parakeet Figurine\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11495,28 +11495,28 @@
 	},
 	{
 		"jp_text": "BP「プレーンドーナツ」",
-		"tr_text": "",
+		"tr_text": "BP \"Plain Donut\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「チョコドーナツ」",
-		"tr_text": "",
+		"tr_text": "BP \"Chocolate Donut\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「いちごドーナツ」",
-		"tr_text": "",
+		"tr_text": "BP \"Strawberry Donut\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「パンプキンキャット」",
-		"tr_text": "",
+		"tr_text": "BP \"Pumpkin Cat\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11565,7 +11565,7 @@
 	},
 	{
 		"jp_text": "BP「こなもん」",
-		"tr_text": "",
+		"tr_text": "BP \"Konamon\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11593,21 +11593,21 @@
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Durga I Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠGアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Durga IG Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠG-DQVアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Durga IG-DQV Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11642,14 +11642,14 @@
 	},
 	{
 		"jp_text": "BP「ウォータースペース：立方体」",
-		"tr_text": "",
+		"tr_text": "BP \"Water Space: Cube\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウォータースペース：円柱」",
-		"tr_text": "",
+		"tr_text": "BP \"Water Space: Cylinder\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11691,42 +11691,42 @@
 	},
 	{
 		"jp_text": "BP「グラヴィルベオーネ（ソード）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Bayone (Sword)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルベオーネ（ライフル）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Bayone (Rifle)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルトリーア（カタナ）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Tria (Katana)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルラルーゴ（ロッド）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Ralugo (Rod)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルクルーツ（マシンガン）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Crootz (Machineguns)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルフルーガ（バレットボウ）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Fluga (Bullet Bow)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11880,21 +11880,21 @@
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスターC」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスターD」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster D\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスターB」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11929,105 +11929,105 @@
 	},
 	{
 		"jp_text": "BP「ネコアルク」",
-		"tr_text": "",
+		"tr_text": "BP \"Neco-Arc\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスター」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フリーレンアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フェルンアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Fern Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シュタルクアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Stark Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ヒンメルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Himmel Acrylic Stand"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ハイターアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Heiter Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「アイゼンアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Eisen Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：ポスター」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Poster\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：防御魔法」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Defensive Magic\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン×ＮＧＳポスター」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren x NGS Poster\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：一般攻撃魔法」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Offensive Magic\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フリーレンの杖」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren's Staff\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フェルンの杖」",
-		"tr_text": "",
+		"tr_text": "BP \"Fern's Staff\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シュタルクの斧」",
-		"tr_text": "",
+		"tr_text": "BP \"Stark's Axe\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
