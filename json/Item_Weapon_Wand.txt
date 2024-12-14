@@ -200,21 +200,21 @@
 		"jp_text": "ラコニウムの杖",
 		"tr_text": "Club of Laconium",
 		"jp_explain": "強固なラコニウム金属を用いた短杖。\n含有フォトンが炎属性に偏っており\n常に先端が高熱を帯びている。",
-		"tr_explain": ""
+		"tr_explain": "A Wand made from powerful Laconium\nmetal. The fire-aligned Photons it\ncontains make its head extremely hot."
 	},
 	{
 		"assign": "113029",
 		"jp_text": "アダマンの杖",
 		"tr_text": "Mace of Adaman",
 		"jp_explain": "魔石『アダマン』を用いた短杖。\n含有フォトンが氷属性に偏っており\n常に先端が冷気を帯びている。",
-		"tr_explain": "This Wand uses Adaman Spellstones.\nIts spiked head is tinged with cold\ndue to the ice-based Photons it uses."
+		"tr_explain": "A Wand that uses Adaman Spellstones.\nThe ice-aligned Photons it contains\ntinge its spiked head with cold."
 	},
 	{
 		"assign": "113030",
 		"jp_text": "ズミウランの杖",
 		"tr_text": "Club of Zumiuran",
 		"jp_explain": "魔石『ズミウラン』を用いた短杖。\n含有フォトンが雷属性に偏っており\n常に先端が帯電状態を維持している。",
-		"tr_explain": ""
+		"tr_explain": "A Wand that uses Zumiuran Spellstones.\nThe lightning-aligned Photons it contains\ncharge its head with electricity."
 	},
 	{
 		"assign": "113031",

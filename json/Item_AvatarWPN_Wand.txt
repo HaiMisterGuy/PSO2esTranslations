@@ -340,7 +340,7 @@
 		"jp_text": "＊アダマンの杖",
 		"tr_text": "＊Mace of Adaman",
 		"jp_explain": "魔石『アダマン』を用いた短杖型\n武器迷彩。含有フォトンが氷属性に\n偏っており、先端が冷気を帯びている。",
-		"tr_explain": "A Wand camo that uses Adaman\nSpellstones. Its spiked head is tinged\nwith cold due to its ice-based Photons."
+		"tr_explain": "Wand camo using Adaman Spellstones.\nThe ice-aligned Photons it contains\ntinge its spiked head with cold."
 	},
 	{
 		"assign": "1013010008",
@@ -368,14 +368,14 @@
 		"jp_text": "＊ラコニウムの杖",
 		"tr_text": "＊Club of Laconium",
 		"jp_explain": "強固なラコニウム金属を用いた短杖型\n武器迷彩。含有フォトンが炎属性に\n偏っており、先端が高熱を帯びている。",
-		"tr_explain": ""
+		"tr_explain": "A Wand camo made from powerful\nLaconium metal. The fire-aligned Photons\nit contains make its head extremely hot."
 	},
 	{
 		"assign": "1013060",
 		"jp_text": "＊ズミウランの杖",
 		"tr_text": "＊Club of Zumiuran",
 		"jp_explain": "魔石“ズミウラン”を用いた短杖型\n武器迷彩。含有フォトンが雷属性に\n偏っており、先端が常に帯電している。",
-		"tr_explain": ""
+		"tr_explain": "Wand camo using Zumiuran Spellstones.\nThe lightning-aligned Photons it contains\ncharge its head with electricity."
 	},
 	{
 		"assign": "1013010011",
