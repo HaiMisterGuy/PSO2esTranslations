@@ -473,14 +473,14 @@
 		"jp_text": "＊黒兇槍ザンバラリア",
 		"tr_text": "＊Darkhelm Spear Zanbaralia",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／\nダブルセイバー　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Partizan/Double Saber\nand others<c>"
 	},
 	{
 		"assign": "103010030",
 		"jp_text": "＊フィンスターリッター",
 		"tr_text": "＊Finster Ritter",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／\nダブルセイバー　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Partizan/Double Saber\nand others<c>"
 	},
 	{
 		"assign": "103062",
@@ -494,27 +494,27 @@
 		"jp_text": "＊ドゥーンケルリッター",
 		"tr_text": "＊Dunkel Ritter",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／\nダブルセイバー　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Partizan/Double Saber\nand others<c>"
 	},
 	{
 		"assign": "103010032",
 		"jp_text": "＊ヘイルラング",
 		"tr_text": "＊Hale-Rung",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／\nツインダガー　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Partizan/Twin Daggers\nand others<c>"
 	},
 	{
 		"assign": "103010033",
 		"jp_text": "＊死徒ノエルの槍",
 		"tr_text": "＊Dead Apostle Noel's Spear",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／ソード　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Partizan/Sword\nand others<c>"
 	},
 	{
 		"assign": "103010034",
 		"jp_text": "＊シュタルクの斧",
-		"tr_text": "",
+		"tr_text": "＊Stark's Axe",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：パルチザン／ソード　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Partizan/Sword\nand others<c>"
 	}
 ]

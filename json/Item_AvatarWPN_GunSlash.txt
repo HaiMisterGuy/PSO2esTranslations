@@ -417,7 +417,7 @@
 		"jp_text": "＊ブリタニア軍制式拳銃",
 		"tr_text": "＊Britannia Service Pistol",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ガンスラッシュ／\nアサルトライフル　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Gunslash/\nAssault Rifle and others<c>"
 	},
 	{
 		"assign": "107066",
@@ -431,6 +431,6 @@
 		"jp_text": "＊爆斬砲アルシャト",
 		"tr_text": "＊Sundercannon Alshat",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ガンスラッシュ／ウォンド<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Gunslash/\nWand<c>"
 	}
 ]

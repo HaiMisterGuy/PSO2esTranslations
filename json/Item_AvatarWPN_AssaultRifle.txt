@@ -508,7 +508,7 @@
 		"jp_text": "＊スーパーヴァリス",
 		"tr_text": "＊Super VARIS",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル／\nランチャー　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Assault Rifle/Launcher and others<c>"
 	},
 	{
 		"assign": "108079",
@@ -522,34 +522,34 @@
 		"jp_text": "＊防衛隊基本銃",
 		"tr_text": "＊Defense Force Rifle",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル／ランチャー<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Assault Rifle/Launcher<c>"
 	},
 	{
 		"assign": "108010016",
 		"jp_text": "＊ピストーラアクア",
 		"tr_text": "＊Pistola Aqua",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Assault Rifle<c>"
 	},
 	{
 		"assign": "108010017",
 		"jp_text": "＊ピスタトルアクア",
 		"tr_text": "＊Pistatol Aqua",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Assault Rifle<c>"
 	},
 	{
 		"assign": "108010018",
 		"jp_text": "＊ローゼンシュトゥルム",
 		"tr_text": "＊Rosensturm",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル／ガンスラッシュ<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Assault Rifle/Gunslash<c>"
 	},
 	{
 		"assign": "108010019",
 		"jp_text": "＊第七聖典・焼死（ブレイズ）",
 		"tr_text": "＊7th Holy Scripture (Blaze)",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：アサルトライフル<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Assault Rifle<c>"
 	}
 ]

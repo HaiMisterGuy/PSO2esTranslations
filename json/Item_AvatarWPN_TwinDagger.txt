@@ -431,47 +431,47 @@
 		"jp_text": "＊致命の包丁",
 		"tr_text": "＊Vorpal Chopper",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ツインダガー／デュアルブレード<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Twin Daggers/\nDual Blades and others<c>"
 	},
 	{
 		"assign": "104010019",
 		"jp_text": "＊拳気",
 		"tr_text": "＊Spirit Fist",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ツインダガー／ナックル",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Twin Daggers/Knuckles\nand others<c>"
 	},
 	{
 		"assign": "104010021",
 		"jp_text": "＊保科宗四郎専用武器",
 		"tr_text": "＊Soshiro Hoshina Personal Weapon",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ツインダガー／ナックル　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Twin Daggers/Knuckles\nand others<c>"
 	},
 	{
 		"assign": "104062",
 		"jp_text": "＊ホワイトディナー",
-		"tr_text": "",
+		"tr_text": "＊White Dinner",
 		"jp_explain": "華やかな夕食に相応しい、純白を基調に\n作られた特殊な双小剣型武器迷彩。\n戦闘での使用は想定されていなかった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "104010022",
 		"jp_text": "＊センエイキ",
-		"tr_text": "",
+		"tr_text": "＊Sen'eiki",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ツインダガー／\nワイヤードランス　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Twin Daggers/\nWired Lance and others<c>"
 	},
 	{
 		"assign": "104010023",
 		"jp_text": "＊センアンキ",
-		"tr_text": "",
+		"tr_text": "＊Sen'anki",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ツインダガー／\nワイヤードランス　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Twin Daggers/\nWired Lance and others<c>"
 	},
 	{
 		"assign": "104063",
 		"jp_text": "＊ツインチャクラム",
-		"tr_text": "",
+		"tr_text": "＊Twin Chakram",
 		"jp_explain": "フォトンによる円状の刃を持つ\n双小剣型武器迷彩。攻撃速度に優れ、\n多数の敵を相手取るのに向いている。",
 		"tr_explain": ""
 	}

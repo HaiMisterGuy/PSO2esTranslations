@@ -1570,7 +1570,7 @@
 	{
 		"assign": "1130480",
 		"jp_text": "￥Ｅデモニア２短杖ＣＶ２",
-		"tr_text": "",
+		"tr_text": "＊",
 		"jp_explain": "￥Ｅデモニア２短杖ＣＶ２",
 		"tr_explain": ""
 	},
@@ -1633,7 +1633,7 @@
 	{
 		"assign": "113010015",
 		"jp_text": "[NPC]クロフォードのウォンド",
-		"tr_text": "",
+		"tr_text": "＊",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -1647,7 +1647,7 @@
 	{
 		"assign": "113010017",
 		"jp_text": "[APC]プリムウォンド",
-		"tr_text": "",
+		"tr_text": "＊",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -1717,7 +1717,7 @@
 	{
 		"assign": "113010034",
 		"jp_text": "￥フレーリアウォンド",
-		"tr_text": "",
+		"tr_text": "＊",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -2053,14 +2053,14 @@
 	{
 		"assign": "113010137",
 		"jp_text": "エピス・イリニオンウォンド",
-		"tr_text": "",
+		"tr_text": "＊",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "113010078",
 		"jp_text": "トワル・プラネターウォンド",
-		"tr_text": "",
+		"tr_text": "＊",
 		"jp_explain": "",
 		"tr_explain": ""
 	}

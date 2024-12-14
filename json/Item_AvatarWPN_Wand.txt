@@ -361,33 +361,33 @@
 		"jp_text": "＊スライムソード",
 		"tr_text": "＊Slime Sword",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ウォンド／パルチザン　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Wand/Partizan and others<c>"
 	},
 	{
 		"assign": "1013059",
 		"jp_text": "＊ラコニウムの杖",
-		"tr_text": "",
+		"tr_text": "＊Club of Laconium",
 		"jp_explain": "強固なラコニウム金属を用いた短杖型\n武器迷彩。含有フォトンが炎属性に\n偏っており、先端が高熱を帯びている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1013060",
 		"jp_text": "＊ズミウランの杖",
-		"tr_text": "",
+		"tr_text": "＊Club of Zumiuran",
 		"jp_explain": "魔石“ズミウラン”を用いた短杖型\n武器迷彩。含有フォトンが雷属性に\n偏っており、先端が常に帯電している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1013010011",
 		"jp_text": "＊クリオ・アークサーペント",
-		"tr_text": "",
+		"tr_text": "＊Clio Arc Serpent",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ウォンド<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Wand<c>"
 	},
 	{
 		"assign": "1013061",
 		"jp_text": "＊セイレーングラスハンマー",
-		"tr_text": "",
+		"tr_text": "＊Siren Glass Hammer",
 		"jp_explain": "大きな宝珠を基点として作られた\n神秘的な短杖型武器迷彩。その輝きに\n魅せられた敵を、次々と葬り去る。",
 		"tr_explain": ""
 	}

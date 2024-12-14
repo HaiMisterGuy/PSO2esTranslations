@@ -324,14 +324,14 @@
 	{
 		"assign": "1012054",
 		"jp_text": "＊ガディアンナ",
-		"tr_text": "",
+		"tr_text": "＊Gadianna",
 		"jp_explain": "込められた念が具現化する聖なる導具型\n武器迷彩。使いこなせるかどうかは、\n装者の才能に大きく左右される。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1012055",
 		"jp_text": "＊ラッピーファンファン",
-		"tr_text": "",
+		"tr_text": "＊Rappy Fan Fan",
 		"jp_explain": "ラッピーの羽根を模した攻撃を放つ\n愛らしい導具型武器迷彩。本物の羽根は\n決して使っていない。……決して。",
 		"tr_explain": ""
 	}
