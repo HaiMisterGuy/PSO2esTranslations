@@ -515,7 +515,7 @@
 		"jp_text": "＊サルスパニッシャー",
 		"tr_text": "＊Sarce Punisher",
 		"jp_explain": "製造者が全く明らかになっていない\n究極の長銃型武器迷彩。“天罰”は\n下せないが、高い威力を持つ。",
-		"tr_explain": ""
+		"tr_explain": "Rifle camo with an unknown creator. Its\nbullets mimic the effect known as\n\"Divine Punishment\" with each shot."
 	},
 	{
 		"assign": "108010015",

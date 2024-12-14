@@ -326,7 +326,7 @@
 		"jp_text": "＊ガディアンナ",
 		"tr_text": "＊Gadianna",
 		"jp_explain": "込められた念が具現化する聖なる導具型\n武器迷彩。使いこなせるかどうかは、\n装者の才能に大きく左右される。",
-		"tr_explain": ""
+		"tr_explain": "A sacred Talis camo that embodies\nfeelings. The wielder's own abilities\ndictate how well they can use it."
 	},
 	{
 		"assign": "1012055",

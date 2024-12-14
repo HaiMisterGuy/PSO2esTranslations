@@ -424,7 +424,7 @@
 		"jp_text": "＊パンツァーファースト",
 		"tr_text": "＊Panzer Faust",
 		"jp_explain": "強力なロケット弾を発射する大砲型\n武器迷彩。スピード、攻撃力など、\nどれを取っても高いクオリティを持つ。",
-		"tr_explain": ""
+		"tr_explain": "Launcher camo that fires powerful\nrockets. Its speed, power and number\nof parts make it a high-quality weapon."
 	},
 	{
 		"assign": "109010012",
@@ -445,7 +445,7 @@
 		"jp_text": "＊Ｌ＆Ｋ３８コンバット",
 		"tr_text": "＊L&K38 Combat",
 		"jp_explain": "少数生産の重機関砲をもとに開発された\n大砲型武器迷彩。重くて、射撃時の\n反動も大きく、扱いに力量が問われる。",
-		"tr_explain": ""
+		"tr_explain": "A heavy machinegun made into a\nLauncher camo in small quantities. Its\nsize and recoil require combat affinity."
 	},
 	{
 		"assign": "109066",

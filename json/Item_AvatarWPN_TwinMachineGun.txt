@@ -473,7 +473,7 @@
 		"jp_text": "＊Ｌ＆Ｋ１４コンバット",
 		"tr_text": "＊L&K14 Combat",
 		"jp_explain": "使用者の評により名声を集めた双機銃型\n武器迷彩。高い性能と使い勝手の良さは\n人気が偽りではないことの証明。",
-		"tr_explain": ""
+		"tr_explain": "Twin Machinegun camo made famous by\na former user. With high performance\nand usability, it proves its worth."
 	},
 	{
 		"assign": "1010010009",
@@ -487,13 +487,13 @@
 		"jp_text": "＊ミズーリＭ１３",
 		"tr_text": "＊Missouri M13",
 		"jp_explain": "絶大な支持を得ている天才デザイナーの\n出世作となった双機銃型武器迷彩。\nデザインに加え火力も追求されている。",
-		"tr_explain": ""
+		"tr_explain": "A popular Machinegun camo which\nreceived huge support since its\nrelease for its design and power."
 	},
 	{
 		"assign": "1010079",
 		"jp_text": "＊Ｈ＆Ｓ２５ジャスティス",
 		"tr_text": "＊H&S25 Justice",
 		"jp_explain": "珠玉の一品として名高い双機銃型\n武器迷彩。凍りつくほどに洗練された\nフォトンの弾が、敵を射貫く。",
-		"tr_explain": ""
+		"tr_explain": "An iconic Twin Machinegun camo.\nIts Photon bullets are refined into a\nconfiguration that freezes enemies."
 	}
 ]

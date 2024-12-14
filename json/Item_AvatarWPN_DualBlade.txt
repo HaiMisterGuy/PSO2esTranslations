@@ -494,7 +494,7 @@
 		"jp_text": "＊ノクスディナス",
 		"tr_text": "＊Nox Dinas",
 		"jp_explain": "特別な儀式によって生み出された\n黒き飛翔剣型武器迷彩。\n装者も恐怖を抱くほどの切れ味を持つ。",
-		"tr_explain": ""
+		"tr_explain": "Black Dual Blade camo produced in an\nillicit ritual. Its sheer cutting power\nterrifies even its wielder."
 	},
 	{
 		"assign": "1017010009",

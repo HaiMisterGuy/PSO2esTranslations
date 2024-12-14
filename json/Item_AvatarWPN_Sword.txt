@@ -2097,7 +2097,7 @@
 		"jp_text": "＊チェインソード",
 		"tr_text": "＊Chainsawd",
 		"jp_explain": "別次元から現れたという大剣型\n武器迷彩。激しく回転するフォトンの\n小さな刃が、敵を容赦なく切り刻む。",
-		"tr_explain": ""
+		"tr_explain": "Camo based on a Sword from another\ndimension. Its small rotating Photon\nblades chop enemies mercilessly."
 	},
 	{
 		"assign": "101010171",
@@ -2202,7 +2202,7 @@
 		"jp_text": "＊封印ノダチ",
 		"tr_text": "＊Sealed J-Sword",
 		"jp_explain": "謎の印により力を封じられた大剣型\n武器迷彩。その封印を解く術は\n今も明らかになっていない。",
-		"tr_explain": ""
+		"tr_explain": "Sword camo sealed by an unknown\nstamp. Anyone who tries to break\nthe seal is ultimately driven mad by it."
 	},
 	{
 		"assign": "101010193",

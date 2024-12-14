@@ -396,7 +396,7 @@
 		"jp_text": "＊デモリションコメット",
 		"tr_text": "＊Demolition Comet",
 		"jp_explain": "無数の刃で敵を切る両剣型武器迷彩。\nあらゆる方向から繰り出される斬撃を\nくぐり抜けられる者は存在しない。",
-		"tr_explain": ""
+		"tr_explain": "Double Saber camo covered in countless\nblades. None can escape it, for it\nslashes from every direction at once."
 	},
 	{
 		"assign": "105010013",
