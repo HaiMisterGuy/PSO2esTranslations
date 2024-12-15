@@ -522,7 +522,7 @@
 		"jp_text": "バレットクナイ",
 		"tr_text": "Bullet Kunai",
 		"jp_explain": "かつて隠密の任に就いていた者の\n飛び道具を再現した双機銃。\n華麗な攻撃で標的を仕留める。",
-		"tr_explain": ""
+		"tr_explain": "Twin Machineguns based on the\nprojectile weapons of ancient spies.\nThey take down targets with elegance."
 	},
 	{
 		"assign": "110095",

@@ -319,7 +319,7 @@
 		"jp_text": "＊バーニングパーム",
 		"tr_text": "＊Burning Palm",
 		"jp_explain": "パームボールのような攻撃を放つ\n導具型武器迷彩。熱き血潮を\nほとばしらせる。",
-		"tr_explain": ""
+		"tr_explain": "A Talis weapon camo that unleashes\nfirey orbs from your palms.\nFeel your hot blood flowing!"
 	},
 	{
 		"assign": "1012054",
@@ -333,6 +333,6 @@
 		"jp_text": "＊ラッピーファンファン",
 		"tr_text": "＊Rappy Fan Fan",
 		"jp_explain": "ラッピーの羽根を模した攻撃を放つ\n愛らしい導具型武器迷彩。本物の羽根は\n決して使っていない。……決して。",
-		"tr_explain": ""
+		"tr_explain": "An adorable Talis camo whose attacks\nare based on Rappy feathers. Nobody\nwould ever use real feathers... Nobody..."
 	}
 ]

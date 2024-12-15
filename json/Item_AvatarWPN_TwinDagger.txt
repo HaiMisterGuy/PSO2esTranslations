@@ -452,7 +452,7 @@
 		"jp_text": "＊ホワイトディナー",
 		"tr_text": "＊White Dinner",
 		"jp_explain": "華やかな夕食に相応しい、純白を基調に\n作られた特殊な双小剣型武器迷彩。\n戦闘での使用は想定されていなかった。",
-		"tr_explain": ""
+		"tr_explain": "A special Twin Dagger camo cast in\npure white, suitable for a splendid dinner.\nNot intended for combat."
 	},
 	{
 		"assign": "104010022",
@@ -473,6 +473,6 @@
 		"jp_text": "＊ツインチャクラム",
 		"tr_text": "＊Twin Chakram",
 		"jp_explain": "フォトンによる円状の刃を持つ\n双小剣型武器迷彩。攻撃速度に優れ、\n多数の敵を相手取るのに向いている。",
-		"tr_explain": ""
+		"tr_explain": "Twin Dagger camo with circular Photon\nblades. Their excellent attack speed is\nsuitable for taking on multiple enemies."
 	}
 ]

@@ -326,7 +326,7 @@
 		"jp_text": "ラッピーファンファン",
 		"tr_text": "Rappy Fan Fan",
 		"jp_explain": "ラッピーの羽根を模したものを放つ\n愛らしい導具。本物の羽根は決して\n使ってはいません。……決して。",
-		"tr_explain": ""
+		"tr_explain": "An adorable Talis whose attacks are\nbased on Rappy feathers. Nobody would\never use real feathers... No, nobody..."
 	},
 	{
 		"assign": "112058",

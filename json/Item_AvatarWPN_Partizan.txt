@@ -487,7 +487,7 @@
 		"jp_text": "＊ゲキツナアタ",
 		"tr_text": "＊Gekitsnata",
 		"jp_explain": "突撃戦闘用に開発された長槍型\n武器迷彩。フォトンの運用効率が良く、\n愛用者が多いため、稀少化している。",
-		"tr_explain": ""
+		"tr_explain": "Partizan camo designed for close-range\ncombat. Its high usage rate among\nARKS has made it difficult to acquire."
 	},
 	{
 		"assign": "103010031",

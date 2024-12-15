@@ -396,7 +396,7 @@
 		"jp_text": "セイレーングラスハンマー",
 		"tr_text": "Siren Glass Hammer",
 		"jp_explain": "先端についた大きな宝珠を基点とし\n完成された神秘的な短杖。その輝きに\n魅せられた敵を次々と葬り去る。",
-		"tr_explain": ""
+		"tr_explain": "A Wand with a mysterious gem on its\nhead. Captivates enemies with its glow,\nthen cuts them down one by one."
 	},
 	{
 		"assign": "113066",

@@ -242,7 +242,7 @@
 		"jp_text": "ゲキツナアタ",
 		"tr_text": "Gekitsnata",
 		"jp_explain": "突撃戦闘用に開発された長槍。\nフォトン効率が良く、アークス内の\n愛用者が多いため、稀少化している。",
-		"tr_explain": ""
+		"tr_explain": "A Partizan designed for close-range\ncombat. Its high usage rate among\nARKS has made it difficult to acquire."
 	},
 	{
 		"assign": "13035",
@@ -1026,7 +1026,7 @@
 		"jp_text": "ゲキツナアタ-NT",
 		"tr_text": "Gekitsnata-NT",
 		"jp_explain": "突撃戦闘用に開発された長槍。\nフォトン効率が良く、アークス内の\n愛用者が多いため、稀少化している。",
-		"tr_explain": ""
+		"tr_explain": "A Partizan designed for close-range\ncombat. Its high usage rate among\nARKS has made it difficult to acquire."
 	},
 	{
 		"assign": "130244",

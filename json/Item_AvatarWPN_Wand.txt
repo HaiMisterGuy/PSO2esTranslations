@@ -389,6 +389,6 @@
 		"jp_text": "＊セイレーングラスハンマー",
 		"tr_text": "＊Siren Glass Hammer",
 		"jp_explain": "大きな宝珠を基点として作られた\n神秘的な短杖型武器迷彩。その輝きに\n魅せられた敵を、次々と葬り去る。",
-		"tr_explain": ""
+		"tr_explain": "A Wand camo with a mysterious gem on\nits head. Captivates enemies with its\nglow, then cuts them down one by one."
 	}
 ]
