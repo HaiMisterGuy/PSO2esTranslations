@@ -452,7 +452,7 @@
 		"jp_text": "＊タルラッピーキャノン",
 		"tr_text": "＊Barrel Rappy Cannon",
 		"jp_explain": "ラッピーの姿を模した弾を撃つ大砲型\n武器迷彩。愛らしいその姿が人気だが、\n扱いが可哀想という声も聞かれる。",
-		"tr_explain": ""
+		"tr_explain": "Launcher camo that fires Rappy-shaped\nbullets. Popular among women, but some\npeople feel sorry for the Rappies."
 	},
 	{
 		"assign": "109010015",
