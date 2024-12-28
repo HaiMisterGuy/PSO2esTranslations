@@ -1450,14 +1450,14 @@
 	},
 	{
 		"jp_text": "Mo「待機：胸に手を当てる」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Hand on Chest\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
 	},
 	{
 		"jp_text": "Mo「待機：ホリデイスレイ」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Holiday Sleigh\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -2255,7 +2255,7 @@
 	},
 	{
 		"jp_text": "Mo「移動：ホリデイスレイ」",
-		"tr_text": "",
+		"tr_text": "Mo \"Move: Holiday Sleigh\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -3473,7 +3473,7 @@
 	},
 	{
 		"jp_text": "Mo「ダッシュ：ホリデイスレイ」",
-		"tr_text": "",
+		"tr_text": "Mo \"Dash: Holiday Sleigh\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -4593,7 +4593,7 @@
 	},
 	{
 		"jp_text": "Mo「グライド：ホリデイスレイ」",
-		"tr_text": "",
+		"tr_text": "Mo \"Glide: Holiday Sleigh\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0

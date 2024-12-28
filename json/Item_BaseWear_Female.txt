@@ -43934,7 +43934,7 @@
 	{
 		"assign": "335011673",
 		"jp_text": "ツバクラメ[Ba]",
-		"tr_text": "",
+		"tr_text": "Tsubakurame [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
@@ -44102,28 +44102,28 @@
 	{
 		"assign": "335011697",
 		"jp_text": "ハレノキララカ[Se]",
-		"tr_text": "",
+		"tr_text": "Hare-no-Kiraraka [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011698",
 		"jp_text": "ハレノキララカ/2[Se]",
-		"tr_text": "",
+		"tr_text": "Hare-no-Kiraraka/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011699",
 		"jp_text": "ハレノキララカ/B[Se]",
-		"tr_text": "",
+		"tr_text": "Hare-no-Kiraraka/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011700",
 		"jp_text": "ハレノキララカ/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Hare-no-Kiraraka/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
@@ -44298,21 +44298,21 @@
 	{
 		"assign": "335011725",
 		"jp_text": "ツバクラメ/2[Ba]",
-		"tr_text": "",
+		"tr_text": "Tsubakurame /2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011726",
 		"jp_text": "ツバクラメ/B[Ba]",
-		"tr_text": "",
+		"tr_text": "Tsubakurame/B [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011727",
 		"jp_text": "ツバクラメ/B2[Ba]",
-		"tr_text": "",
+		"tr_text": "Tsubakurame/B2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},

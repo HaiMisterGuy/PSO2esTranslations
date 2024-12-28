@@ -7408,42 +7408,42 @@
 	{
 		"assign": "325010478",
 		"jp_text": "フェザーアイメイク/B",
-		"tr_text": "",
+		"tr_text": "Feather Eye Makeup/B",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010479",
 		"jp_text": "フェザーアイメイク",
-		"tr_text": "",
+		"tr_text": "Feather Eye Makeup",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010480",
 		"jp_text": "ティアーズドットメイク/B",
-		"tr_text": "",
+		"tr_text": "Tears Dot Makeup/B",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010481",
 		"jp_text": "ティアーズドットメイク",
-		"tr_text": "",
+		"tr_text": "Tears Dot Makeup",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010482",
 		"jp_text": "ケモーネリップ/B",
-		"tr_text": "",
+		"tr_text": "Kemone Lips/B",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010483",
 		"jp_text": "ケモーネリップ",
-		"tr_text": "",
+		"tr_text": "Kemone Lips",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},

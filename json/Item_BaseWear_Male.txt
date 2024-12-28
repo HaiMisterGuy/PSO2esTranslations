@@ -22584,28 +22584,28 @@
 	{
 		"assign": "334010923",
 		"jp_text": "ユウゲンバオリ[Se]",
-		"tr_text": "",
+		"tr_text": "Yuugen Baori [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "334010924",
 		"jp_text": "ユウゲンバオリ/2[Se]",
-		"tr_text": "",
+		"tr_text": "Yuugen Baori/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "334010925",
 		"jp_text": "ユウゲンバオリ/B[Se]",
-		"tr_text": "",
+		"tr_text": "Yuugen Baori/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "334010926",
 		"jp_text": "ユウゲンバオリ/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Yuugen Baori/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},

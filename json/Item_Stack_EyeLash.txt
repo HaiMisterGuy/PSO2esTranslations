@@ -6785,14 +6785,14 @@
 	{
 		"assign": "328010160",
 		"jp_text": "トゲノハイライトまつげ/B",
-		"tr_text": "",
+		"tr_text": "Prickly Highlight Eyelashes/B",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyelash type for use."
 	},
 	{
 		"assign": "328010161",
 		"jp_text": "ストレートまつげ",
-		"tr_text": "",
+		"tr_text": "Straight Eyelashes",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyelash type for use."
 	},

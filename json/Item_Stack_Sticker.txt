@@ -5875,7 +5875,7 @@
 	{
 		"assign": "317010061",
 		"jp_text": "ユウゲンバオリステッカー",
-		"tr_text": "",
+		"tr_text": "Yuugen Baori Sticker",
 		"jp_explain": "使用すると新しいステッカーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new sticker for use."
 	},
