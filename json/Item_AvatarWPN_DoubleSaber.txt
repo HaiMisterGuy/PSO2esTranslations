@@ -410,6 +410,6 @@
 		"jp_text": "＊ヴィヴィアン",
 		"tr_text": "＊Vivienne",
 		"jp_explain": "ヴィヴィアンのために復元された両剣型\n武器迷彩。可憐ながらも十分な性能で、\nヴィヴィアン当人もお気に入り。",
-		"tr_explain": ""
+		"tr_explain": "Double Saber camo repaired for Vivienne\nto use. Possessing power equal to its\nbeauty, it's Vivienne's favorite weapon."
 	}
 ]

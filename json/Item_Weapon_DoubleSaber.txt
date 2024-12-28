@@ -1159,7 +1159,7 @@
 		"jp_text": "ヴィヴィアン",
 		"tr_text": "Vivienne",
 		"jp_explain": "ヴィヴィアンのために復元された両剣。\n可憐ながらも十分な性能を持つ。\nヴィヴィアン当人もお気に入り。",
-		"tr_explain": ""
+		"tr_explain": "A Double Saber repaired for Vivienne to\nuse. Possessing power equal to its\nbeauty, it's Vivienne's favorite weapon."
 	},
 	{
 		"assign": "150277",
