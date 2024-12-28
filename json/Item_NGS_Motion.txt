@@ -1429,14 +1429,14 @@
 	},
 	{
 		"jp_text": "Mo「待機：モデル立ち4」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Model Stance 4\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
 	},
 	{
 		"jp_text": "Mo「待機：ダークソルジャー」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Dark Soldier\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -2248,7 +2248,7 @@
 	},
 	{
 		"jp_text": "Mo「移動：ダークソルジャー」",
-		"tr_text": "",
+		"tr_text": "Mo \"Move: Dark Soldier\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -3459,7 +3459,7 @@
 	},
 	{
 		"jp_text": "Mo「ダッシュ：ダークソルジャー」",
-		"tr_text": "",
+		"tr_text": "Mo \"Dash: Dark Soldier\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -4586,7 +4586,7 @@
 	},
 	{
 		"jp_text": "Mo「グライド：ダークソルジャー」",
-		"tr_text": "",
+		"tr_text": "Mo \"Glide: Dark Soldier\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0

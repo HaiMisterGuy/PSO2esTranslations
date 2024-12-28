@@ -43878,56 +43878,56 @@
 	{
 		"assign": "335011665",
 		"jp_text": "カーディセイト[Ba]",
-		"tr_text": "",
+		"tr_text": "Cardigan Academic [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011666",
 		"jp_text": "カーディセイト/B[Ba]",
-		"tr_text": "",
+		"tr_text": "Cardigan Academic/B [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011667",
 		"jp_text": "カーディセイトV2[Ba]",
-		"tr_text": "",
+		"tr_text": "Cardigan Academic V2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011668",
 		"jp_text": "カーディセイトV2/2[Ba]",
-		"tr_text": "",
+		"tr_text": "Cardigan Academic V2/2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011669",
 		"jp_text": "フレイアーフレアー[Ba]",
-		"tr_text": "",
+		"tr_text": "Freyja Flare [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011670",
 		"jp_text": "フレイアーフレアー/2[Ba]",
-		"tr_text": "",
+		"tr_text": "Freyja Flare/2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011671",
 		"jp_text": "フレイアーフレアー/3[Ba]",
-		"tr_text": "",
+		"tr_text": "Freyja Flare/3 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011672",
 		"jp_text": "フレイアーフレアー/4[Ba]",
-		"tr_text": "",
+		"tr_text": "Freyja Flare/4 [B",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},

@@ -1604,56 +1604,56 @@
 	},
 	{
 		"jp_text": "ダッフェルガクユ[Ou]",
-		"tr_text": "",
+		"tr_text": "Duffel Scholar [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ダッフェルガクユ/2[Ou]",
-		"tr_text": "",
+		"tr_text": "Duffel Scholar/2 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ダッフェルガクユ/3[Ou]",
-		"tr_text": "",
+		"tr_text": "Duffel Scholar/3 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "ダッフェルガクユ/4[Ou]",
-		"tr_text": "",
+		"tr_text": "Duffel Scholar/4 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "フレイアーウォーミーT1[Ou]",
-		"tr_text": "",
+		"tr_text": "Freyja Warmy T1 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "フレイアーウォーミーT1/2[Ou]",
-		"tr_text": "",
+		"tr_text": "Freyja Warmy T1/2 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "フレイアーウォーミーT1/3[Ou]",
-		"tr_text": "",
+		"tr_text": "Freyja Warmy T1/3 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0
 	},
 	{
 		"jp_text": "フレイアーウォーミーT1/4[Ou]",
-		"tr_text": "",
+		"tr_text": "Freyja Warmy T1/4 [Ou]",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new outerwear for use.",
 		"assign": 0

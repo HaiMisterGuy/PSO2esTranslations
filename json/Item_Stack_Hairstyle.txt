@@ -16032,28 +16032,28 @@
 	{
 		"assign": "315010447",
 		"jp_text": "カーディセイトヘアー",
-		"tr_text": "",
+		"tr_text": "Cardigan Academic Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010448",
 		"jp_text": "カーディガクユヘアー",
-		"tr_text": "",
+		"tr_text": "Cardigan Scholar Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010449",
 		"jp_text": "フレイアーヘアー",
-		"tr_text": "",
+		"tr_text": "Freyja Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010450",
 		"jp_text": "ノクトーリノヘアーRev",
-		"tr_text": "",
+		"tr_text": "Noctorino Hair Rev",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},

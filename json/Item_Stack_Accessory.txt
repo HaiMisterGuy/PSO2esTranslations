@@ -85703,105 +85703,105 @@
 	{
 		"assign": "38011903",
 		"jp_text": "カーディセイトリボン",
-		"tr_text": "",
+		"tr_text": "Cardigan Academic Ribbon",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011904",
 		"jp_text": "クリアフレームメガネ",
-		"tr_text": "",
+		"tr_text": "Clear Frame Glasses",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011905",
 		"jp_text": "メリケンサック",
-		"tr_text": "",
+		"tr_text": "Brass Knuckles",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011906",
 		"jp_text": "ボックスリュック",
-		"tr_text": "",
+		"tr_text": "Box Backpack",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011907",
 		"jp_text": "ヘキサアレイ",
-		"tr_text": "",
+		"tr_text": "Hexagon Dumbbells",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011908",
 		"jp_text": "ユルポニーエクステ",
-		"tr_text": "",
+		"tr_text": "Loose Pony Extensions",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011909",
 		"jp_text": "シデントウ",
-		"tr_text": "",
+		"tr_text": "Shidentou",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011910",
 		"jp_text": "バッテンバンテージ",
-		"tr_text": "",
+		"tr_text": "Crossed Bandages",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011911",
 		"jp_text": "アコースティックギター",
-		"tr_text": "",
+		"tr_text": "Acoustic Guitar",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011912",
 		"jp_text": "ヘイローブレスレット",
-		"tr_text": "",
+		"tr_text": "Halo Bracelet",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011913",
 		"jp_text": "カフェドリンク",
-		"tr_text": "",
+		"tr_text": "Cafe Drink",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011914",
 		"jp_text": "N-球（メカニカル）",
-		"tr_text": "",
+		"tr_text": "N-Sphere (Mechanical)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011915",
 		"jp_text": "N-立方体（メカニカル）",
-		"tr_text": "",
+		"tr_text": "N-Cube (Mechanical)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011916",
 		"jp_text": "N-円錐（メカニカル）",
-		"tr_text": "",
+		"tr_text": "N-Cone (Mechanical)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011917",
 		"jp_text": "N-円柱（メカニカル）",
-		"tr_text": "",
+		"tr_text": "N-Cylinder (Mechanical)",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},

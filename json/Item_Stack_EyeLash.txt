@@ -6771,14 +6771,14 @@
 	{
 		"assign": "328010158",
 		"jp_text": "カラフルまつげ",
-		"tr_text": "",
+		"tr_text": "Colorful Eyelashes",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyelash type for use."
 	},
 	{
 		"assign": "328010159",
 		"jp_text": "トゲノタレメまつげ",
-		"tr_text": "",
+		"tr_text": "Spikey Droopy Eyelashes",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyelash type for use."
 	},

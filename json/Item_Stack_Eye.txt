@@ -4895,14 +4895,14 @@
 	{
 		"assign": "326010168",
 		"jp_text": "シャイニーライトアイ/B",
-		"tr_text": "",
+		"tr_text": "Shiny Light Eyes/B",
 		"jp_explain": "使用すると新しい瞳パターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eye pattern for use."
 	},
 	{
 		"assign": "326010169",
 		"jp_text": "シャープハイライトアイ",
-		"tr_text": "",
+		"tr_text": "Sharp Highlight Eyes",
 		"jp_explain": "使用すると新しい瞳パターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eye pattern for use."
 	},

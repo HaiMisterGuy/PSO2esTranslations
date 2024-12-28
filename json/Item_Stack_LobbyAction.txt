@@ -12707,14 +12707,14 @@
 	{
 		"assign": "323015301",
 		"jp_text": "1069「学校の椅子」",
-		"tr_text": "",
+		"tr_text": "1069 \"School Chair\"",
 		"jp_explain": "使用すると新しいロビーアクションが\n全キャラクターで選択可能になる。\n<yellow>※対応機能：ボタン派生／\n対応服指可動／『PSO2』ブロック非対応<c>",
 		"tr_explain": "Unlocks a new Lobby Action for use by\nall characters on your account.\n<yellow>Has button actions/Finger motion\noutfit-limited/Can't use in [PSO2].<c>"
 	},
 	{
 		"assign": "323015302",
 		"jp_text": "1070「コミカルポーズ」",
-		"tr_text": "",
+		"tr_text": "1070 \"Comical Pose\"",
 		"jp_explain": "使用すると新しいロビーアクションが\n全キャラクターで選択可能になる。\n<yellow>※対応機能：ボタン派生／\n対応服指可動／『PSO2』ブロック非対応<c>",
 		"tr_explain": "Unlocks a new Lobby Action for use by\nall characters on your account.\n<yellow>Has button actions/Finger motion\noutfit-limited/Can't use in [PSO2].<c>"
 	},

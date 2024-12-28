@@ -16767,56 +16767,56 @@
 	{
 		"assign": "329010866",
 		"jp_text": "ダメージアームカバー/B",
-		"tr_text": "",
+		"tr_text": "Damaged Arm Covers/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010867",
 		"jp_text": "ダメージアームカバー",
-		"tr_text": "",
+		"tr_text": "Damaged Arm Covers",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010868",
 		"jp_text": "フェロウシャススカーT1L",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T1 L",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010869",
 		"jp_text": "フェロウシャススカーT1R",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T1 R",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010870",
 		"jp_text": "フェロウシャススカーT2L",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T2 L",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010871",
 		"jp_text": "フェロウシャススカーT2R",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T2 R",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010872",
 		"jp_text": "ショートメッシュソックス/B",
-		"tr_text": "",
+		"tr_text": "Short Mesh Socks/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010873",
 		"jp_text": "ショートメッシュソックス",
-		"tr_text": "",
+		"tr_text": "Short Mesh Socks",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},

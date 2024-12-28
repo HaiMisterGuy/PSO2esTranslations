@@ -7366,42 +7366,42 @@
 	{
 		"assign": "325010472",
 		"jp_text": "トゥルットリップ/B",
-		"tr_text": "",
+		"tr_text": "Luscious Lips/B",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010473",
 		"jp_text": "トゥルットリップ",
-		"tr_text": "",
+		"tr_text": "Luscious Lips",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010474",
 		"jp_text": "アラウンドアイチーク/B",
-		"tr_text": "",
+		"tr_text": "Around Eye Cheeks/B",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010475",
 		"jp_text": "アラウンドアイチーク",
-		"tr_text": "",
+		"tr_text": "Around Eye Cheeks",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010476",
 		"jp_text": "ミワクノアイメイク/B",
-		"tr_text": "",
+		"tr_text": "Alluring Eye Makeup/B",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
 	{
 		"assign": "325010477",
 		"jp_text": "ミワクノアイメイク",
-		"tr_text": "",
+		"tr_text": "Alluring Eye Makeup",
 		"jp_explain": "使用すると新しいメイクパターンが\n選択可能になる。",
 		"tr_explain": "Unlocks a new makeup for use."
 	},
