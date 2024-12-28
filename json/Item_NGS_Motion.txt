@@ -1359,7 +1359,7 @@
 	},
 	{
 		"jp_text": "Mo「待機：まっすぐ立つ2」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Stand Straight 2\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -1394,7 +1394,7 @@
 	},
 	{
 		"jp_text": "Mo「待機：ホバー」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Hover\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -1422,7 +1422,7 @@
 	},
 	{
 		"jp_text": "Mo「待機：マジェスティウィング/B」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Majestic Wings/B\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -1443,7 +1443,7 @@
 	},
 	{
 		"jp_text": "Mo「待機：ダークソルジャーEX」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Dark Soldier EX\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -1464,7 +1464,7 @@
 	},
 	{
 		"jp_text": "Mo「待機：まっすぐ立つ3」",
-		"tr_text": "",
+		"tr_text": "Mo \"Idle: Stand Straight 3\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -2213,7 +2213,7 @@
 	},
 	{
 		"jp_text": "Mo「移動：ホバー2/B」",
-		"tr_text": "",
+		"tr_text": "Mo \"Move: Hover 2/B\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -3396,7 +3396,7 @@
 	},
 	{
 		"jp_text": "Mo「ダッシュ：ホバー2/B」",
-		"tr_text": "",
+		"tr_text": "Mo \"Dash: Hover 2/B\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -3452,7 +3452,7 @@
 	},
 	{
 		"jp_text": "Mo「ダッシュ：ロングストライド/B」",
-		"tr_text": "",
+		"tr_text": "Mo \"Dash: Long Stride/B\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -3466,7 +3466,7 @@
 	},
 	{
 		"jp_text": "Mo「ダッシュ：ダークソルジャーEX」",
-		"tr_text": "",
+		"tr_text": "Mo \"Dash: Dark Soldier EX\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -3480,7 +3480,7 @@
 	},
 	{
 		"jp_text": "Mo「ダッシュ：ホリデイスレイEX」",
-		"tr_text": "",
+		"tr_text": "Mo \"Dash: Holiday Sleigh EX\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
@@ -4600,14 +4600,14 @@
 	},
 	{
 		"jp_text": "Mo「グライド：ホリデイスレイEX」",
-		"tr_text": "",
+		"tr_text": "Mo \"Glide: Holiday Sleigh EX\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
 	},
 	{
 		"jp_text": "Mo「グライド：マジェスティウィング/B」",
-		"tr_text": "",
+		"tr_text": "Mo \"Glide: Majestic Wings/B\"",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "A motion that unlocks for all\ncharacters on your account.\n<yellow>※Not available in [PSO2] Blocks.<c>",
 		"assign": 0
