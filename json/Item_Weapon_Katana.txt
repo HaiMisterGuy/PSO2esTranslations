@@ -228,7 +228,7 @@
 		"jp_text": "サンゲ",
 		"tr_text": "Sange",
 		"jp_explain": "名匠ジョウウンの出世作とされる抜剣。\n作られてから長い年月を経た今もなお、\n破壊力と美しさを損わず生き続ける。",
-		"tr_explain": ""
+		"tr_explain": "A Katana said to be the masterpiece of\nthe weaponsmith Jou'un. Its power and\nbeauty have not lessened with age."
 	},
 	{
 		"assign": "114039",

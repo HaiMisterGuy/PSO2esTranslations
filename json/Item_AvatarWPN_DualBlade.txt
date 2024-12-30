@@ -473,7 +473,7 @@
 		"jp_text": "＊メーザーバイブレーションソード",
 		"tr_text": "＊Maser Vibration Sword",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：デュアルブレード／ソード　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Dual Blades/Sword\nand others<c>"
 	},
 	{
 		"assign": "1017066",
@@ -494,13 +494,13 @@
 		"jp_text": "＊ノクスディナス",
 		"tr_text": "＊Nox Dinas",
 		"jp_explain": "特別な儀式によって生み出された\n黒き飛翔剣型武器迷彩。\n装者も恐怖を抱くほどの切れ味を持つ。",
-		"tr_explain": ""
+		"tr_explain": "Black Dual Blade camo produced in an\nillicit ritual. Its sheer cutting power\nterrifies even its wielder."
 	},
 	{
 		"assign": "1017010009",
 		"jp_text": "＊ジャスパーＬの剣",
 		"tr_text": "＊Jasper L's Sword",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：デュアルブレード／ソード　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Dual Blades/Sword\nand others<c>"
 	}
 ]

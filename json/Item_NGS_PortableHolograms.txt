@@ -1569,49 +1569,49 @@
 	},
 	{
 		"jp_text": "PH「ノートPC(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Notebook PC (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「スクールバッグ(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Schoolbag (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「学校の給食(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"School Lunch (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「和風ポスター(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Japanese Poster (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「丸型ストーブ(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Round Stove (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「寿司下駄(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Sushi Geta (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ヨセナベ(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Yosenabe (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
@@ -2808,7 +2808,7 @@
 	},
 	{
 		"jp_text": "PH「ラッピーフレーム(Ef)」",
-		"tr_text": "",
+		"tr_text": "PH \"Rappy Frame (Ef)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0

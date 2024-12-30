@@ -200,7 +200,7 @@
 		"jp_text": "セイクリッドダスター",
 		"tr_text": "Sacred Duster",
 		"jp_explain": "青白く輝く神秘の鋼拳。\nその拳から繰り出される攻撃には\n敵を凍り付かせる効果があるという。",
-		"tr_explain": ""
+		"tr_explain": "Mysterious Knuckles that shine with a\npale blue light. Their attacks are said to\nfreeze enemies solid."
 	},
 	{
 		"assign": "16029",

@@ -16767,112 +16767,112 @@
 	{
 		"assign": "329010866",
 		"jp_text": "ダメージアームカバー/B",
-		"tr_text": "",
+		"tr_text": "Damaged Arm Covers/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010867",
 		"jp_text": "ダメージアームカバー",
-		"tr_text": "",
+		"tr_text": "Damaged Arm Covers",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010868",
 		"jp_text": "フェロウシャススカーT1L",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T1 L",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010869",
 		"jp_text": "フェロウシャススカーT1R",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T1 R",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010870",
 		"jp_text": "フェロウシャススカーT2L",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T2 L",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010871",
 		"jp_text": "フェロウシャススカーT2R",
-		"tr_text": "",
+		"tr_text": "Ferocious Scar T2 R",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010872",
 		"jp_text": "ショートメッシュソックス/B",
-		"tr_text": "",
+		"tr_text": "Short Mesh Socks/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010873",
 		"jp_text": "ショートメッシュソックス",
-		"tr_text": "",
+		"tr_text": "Short Mesh Socks",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010874",
 		"jp_text": "ハレノキララカグローブ",
-		"tr_text": "",
+		"tr_text": "Hare-no-Kiraraka Gloves",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010875",
 		"jp_text": "ハレノキララカグローブ/B",
-		"tr_text": "",
+		"tr_text": "Hare-no-Kiraraka Gloves/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010876",
 		"jp_text": "スネークタトゥーL/B",
-		"tr_text": "",
+		"tr_text": "Snake Tattoo L/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010877",
 		"jp_text": "スネークタトゥーL",
-		"tr_text": "",
+		"tr_text": "Snake Tattoo L",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010878",
 		"jp_text": "スネークタトゥーR/B",
-		"tr_text": "",
+		"tr_text": "Snake Tattoo R/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010879",
 		"jp_text": "スネークタトゥーR",
-		"tr_text": "",
+		"tr_text": "Snake Tattoo R",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010880",
 		"jp_text": "ショートシースルーソックス/B",
-		"tr_text": "",
+		"tr_text": "Short Seethrough Socks /B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010881",
 		"jp_text": "ショートシースルーソックス",
-		"tr_text": "",
+		"tr_text": "Short Seethrough Socks",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
@@ -16991,14 +16991,14 @@
 	{
 		"assign": "329010898",
 		"jp_text": "ツバクラメアームカバー＆ニーソ/B",
-		"tr_text": "",
+		"tr_text": "Tsubakurame Arm Covers & Knee-Socks/B",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},
 	{
 		"assign": "329010899",
 		"jp_text": "ツバクラメアームカバー＆ニーソ",
-		"tr_text": "",
+		"tr_text": "Tsubakurame Arm Covers & Knee-Socks",
 		"jp_explain": "使用すると新しいボディペイントが\n選択可能になる。",
 		"tr_explain": "Unlocks a new body paint for use."
 	},

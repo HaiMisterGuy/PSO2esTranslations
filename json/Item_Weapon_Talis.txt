@@ -214,7 +214,7 @@
 		"jp_text": "ガディアンナ",
 		"tr_text": "Gadianna",
 		"jp_explain": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは装者の才能に\n大きく左右される。",
-		"tr_explain": "A sacred instrument that embodies\nfeelings. The wielder's own abilities\ndictate how well they can use it."
+		"tr_explain": "A sacred Talis that embodies feelings.\nThe wielder's own abilities dictate how\nwell they can use it."
 	},
 	{
 		"assign": "112031",
@@ -326,7 +326,7 @@
 		"jp_text": "ラッピーファンファン",
 		"tr_text": "Rappy Fan Fan",
 		"jp_explain": "ラッピーの羽根を模したものを放つ\n愛らしい導具。本物の羽根は決して\n使ってはいません。……決して。",
-		"tr_explain": ""
+		"tr_explain": "An adorable Talis whose attacks are\nbased on Rappy feathers. Nobody would\never use real feathers... No, nobody..."
 	},
 	{
 		"assign": "112058",

@@ -204,7 +204,7 @@
 	},
 	{
 		"jp_text": "BP「カガミモチ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kagami Mochi\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -274,7 +274,7 @@
 	},
 	{
 		"jp_text": "BP「モミジー」",
-		"tr_text": "",
+		"tr_text": "BP \"Maple\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -569,15 +569,15 @@
 	{
 		"jp_text": "BP「ストレートベンチ」",
 		"tr_text": "BP \"Straight Bench\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「コーナーベンチ」",
 		"tr_text": "BP \"Corner Bench\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -687,7 +687,7 @@
 	},
 	{
 		"jp_text": "BP「ツマラナイモノ」",
-		"tr_text": "",
+		"tr_text": "BP \"Stuff\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -918,14 +918,14 @@
 	},
 	{
 		"jp_text": "BP「ラッピーピンクマグカップ」",
-		"tr_text": "",
+		"tr_text": "BP \"Pink Rappy Mug\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ラッピーブルーマグカップ」",
-		"tr_text": "",
+		"tr_text": "BP \"Blue Rappy Mug\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1212,56 +1212,56 @@
 	},
 	{
 		"jp_text": "BP「クラシックベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Classic Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックマットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Mat C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Classic Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックローテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Low Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックチェアC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Classic Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックナイトスタンドC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Nightstand C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックライトC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Light C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「クラシックシェルフC」",
-		"tr_text": "",
+		"tr_text": "BP \"Classic Shelf C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1478,7 +1478,7 @@
 	},
 	{
 		"jp_text": "BP「タンス」",
-		"tr_text": "",
+		"tr_text": "BP \"Chest of Drawers\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1542,15 +1542,15 @@
 	{
 		"jp_text": "BP「スイートベッドB」",
 		"tr_text": "BP \"Sweet Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「スイートソファB」",
 		"tr_text": "BP \"Sweet Sofa B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1583,35 +1583,35 @@
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドベッド」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Exotic Traditional Bed\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドソファ」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Exotic Traditional Sofa\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドテーブル」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Table\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドマット」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Mat\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エキゾチックトラッドシェルフ」",
-		"tr_text": "",
+		"tr_text": "BP \"Exotic Traditional Shelf\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1654,15 +1654,15 @@
 	{
 		"jp_text": "BP「ウェスタンベッドB」",
 		"tr_text": "BP \"Western Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンソファB」",
 		"tr_text": "BP \"Western Sofa B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -1688,35 +1688,35 @@
 	},
 	{
 		"jp_text": "BP「ウェスタンベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Western Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Western Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンローテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Western Low Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンラグマットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Western Rug Mat C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウェスタンシェルフC」",
-		"tr_text": "",
+		"tr_text": "BP \"Western Shelf C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1730,28 +1730,28 @@
 	},
 	{
 		"jp_text": "BP「フトンB」",
-		"tr_text": "",
+		"tr_text": "BP \"Futon B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ワノローテーブルB」",
-		"tr_text": "",
+		"tr_text": "BP \"Far Eastern Low Table B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ワノマットB」",
-		"tr_text": "",
+		"tr_text": "BP \"Far Eastern Mat B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「タンスB」",
-		"tr_text": "",
+		"tr_text": "BP \"Chest of Drawers B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1773,8 +1773,8 @@
 	{
 		"jp_text": "BP「ジェイドバス」",
 		"tr_text": "BP \"Jade Bath\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n入浴できるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto take a bath.",
 		"assign": 0
 	},
 	{
@@ -1786,28 +1786,28 @@
 	},
 	{
 		"jp_text": "BP「スペースシップチェア」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Spaceship Chair\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「スペースシップベッド」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Spaceship Bed\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「スペースシップバスタブ」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Spaceship Bathtub\"",
+		"jp_explain": "アクセスすると\n入浴できるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto take a bath.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「丸提灯」",
-		"tr_text": "",
+		"tr_text": "BP \"Paper Lantern\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1849,7 +1849,7 @@
 	},
 	{
 		"jp_text": "BP「ホリデーリース」",
-		"tr_text": "",
+		"tr_text": "BP \"Holiday Wreath\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2031,63 +2031,63 @@
 	},
 	{
 		"jp_text": "BP「レトロベッドB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Retro Bed B\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロテーブルB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Table B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロチェアB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Retro Chair B\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロキャビネットB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Cabinet B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロシャンデリアB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Chandelier B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロソファB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Retro Sofa B\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロテレビB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Television B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロキッチンB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Kitchen B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「レトロオブジェB」",
-		"tr_text": "",
+		"tr_text": "BP \"Retro Objet B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2283,70 +2283,70 @@
 	},
 	{
 		"jp_text": "BP「ファンシーベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーローテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Low Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーチェアC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーキャビネットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Cabinet C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーシャンデリアC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Chandelier C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーミニソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Mini Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーソファC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Fancy Sofa C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシーラビットC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Rabbit C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシースタンドC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Stand C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ファンシードレッサーC」",
-		"tr_text": "",
+		"tr_text": "BP \"Fancy Dresser C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2494,8 +2494,8 @@
 	{
 		"jp_text": "BP「オールドベッドB」",
 		"tr_text": "BP \"Old Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -2508,8 +2508,8 @@
 	{
 		"jp_text": "BP「オールドチェアB」",
 		"tr_text": "BP \"Old Chair B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -2529,8 +2529,8 @@
 	{
 		"jp_text": "BP「オールドベンチB」",
 		"tr_text": "BP \"Old Bench B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -2563,70 +2563,70 @@
 	},
 	{
 		"jp_text": "BP「オールドベッドC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Old Bed C\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドテーブルC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Table C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドチェアC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Old Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドシェルフC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Shelf C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドライトC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Light C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドベンチC」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Old Bench C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドテレビC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old TV C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドキッチンC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Kitchen C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドガスポンプC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Gas Pump C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「オールドリフリジレイターC」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Refrigerator C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2668,7 +2668,7 @@
 	},
 	{
 		"jp_text": "BP「オールドスーパーカー」",
-		"tr_text": "",
+		"tr_text": "BP \"Old Supercar\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -3131,8 +3131,8 @@
 	{
 		"jp_text": "BP「ナイトクラブチェアB」",
 		"tr_text": "BP \"Nightclub Chair B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -3145,15 +3145,15 @@
 	{
 		"jp_text": "BP「ナイトクラブベッドB」",
 		"tr_text": "BP \"Nightclub Bed B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ナイトクラブソファB」",
 		"tr_text": "BP \"Nightclub Sofa B\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -3369,8 +3369,8 @@
 	{
 		"jp_text": "BP「ウッディハンモック」",
 		"tr_text": "BP \"Woody Hammock\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3445,30 +3445,30 @@
 	},
 	{
 		"jp_text": "BP「ウッディキッチンB」",
-		"tr_text": "",
+		"tr_text": "BP \"Woody Kitchen B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「キャンプチェアB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Camp Chair B\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「キャンプテーブルB」",
-		"tr_text": "",
+		"tr_text": "BP \"Camp Table B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウッディハンモックB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Woody Hammock B\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3607,8 +3607,8 @@
 	{
 		"jp_text": "BP「コフィンベッド」",
 		"tr_text": "BP \"Coffin Bed\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
@@ -3928,23 +3928,23 @@
 	},
 	{
 		"jp_text": "BP「保健室のベッドB」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"Infirmary Bed B\"",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto lie down on it.",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「学校の机C」",
-		"tr_text": "",
+		"tr_text": "BP \"School Desk C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「学校の椅子C」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
+		"tr_text": "BP \"School Chair C\"",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -3984,7 +3984,7 @@
 	},
 	{
 		"jp_text": "BP「学校の給食B」",
-		"tr_text": "",
+		"tr_text": "BP \"School Lunch B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4495,7 +4495,7 @@
 	},
 	{
 		"jp_text": "BP「マツタケ」",
-		"tr_text": "",
+		"tr_text": "BP \"Matutake\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -7568,7 +7568,7 @@
 	},
 	{
 		"jp_text": "BP「バルーンアート」",
-		"tr_text": "",
+		"tr_text": "BP \"Balloon Art\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -7904,7 +7904,7 @@
 	},
 	{
 		"jp_text": "BP「トナ・ラッピーぬいぐるみ」",
-		"tr_text": "",
+		"tr_text": "BP \"Tonna Rappy Plush\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11278,42 +11278,42 @@
 	},
 	{
 		"jp_text": "BP「怪獣８号アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kaiju No. 8 Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「日比野カフカアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kafka Hibino Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「市川レノアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Reno Ichikawa Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「四ノ宮キコルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kikoru Shinomiya Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「亜白ミナアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Mina Ashiro Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「保科宗四郎アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Soshiro Hoshina Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11419,8 +11419,8 @@
 	{
 		"jp_text": "BP「ビーチチェア」",
 		"tr_text": "BP \"Beach Chair\"",
-		"jp_explain": "",
-		"tr_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "This Build Part can be accessed\nto sit on it.",
 		"assign": 0
 	},
 	{
@@ -11446,42 +11446,42 @@
 	},
 	{
 		"jp_text": "BP「ソンブリーラヴェラーノ」",
-		"tr_text": "",
+		"tr_text": "BP \"Sombrila Verano\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「M.A.R.S.フライングラム」",
-		"tr_text": "",
+		"tr_text": "BP \"M.A.R.S. Flying Ram\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シャングリラ・フロンティアGL」",
-		"tr_text": "BP \"Shangri-La FrontierGL\"",
+		"tr_text": "BP \"Shangri-La Frontier GL\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シャングリラ・フロンティアB-GL」",
-		"tr_text": "BP \"Shangri-La FrontierB-GL\"",
+		"tr_text": "BP \"Shangri-La Frontier B-GL\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ティーカッププードルぬいぐるみ」",
-		"tr_text": "",
+		"tr_text": "BP \"Teacup Poodle Plush\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「インコの置物」",
-		"tr_text": "",
+		"tr_text": "BP \"Parakeet Figurine\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11495,28 +11495,28 @@
 	},
 	{
 		"jp_text": "BP「プレーンドーナツ」",
-		"tr_text": "",
+		"tr_text": "BP \"Plain Donut\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「チョコドーナツ」",
-		"tr_text": "",
+		"tr_text": "BP \"Chocolate Donut\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「いちごドーナツ」",
-		"tr_text": "",
+		"tr_text": "BP \"Strawberry Donut\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「パンプキンキャット」",
-		"tr_text": "",
+		"tr_text": "BP \"Pumpkin Cat\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11565,7 +11565,7 @@
 	},
 	{
 		"jp_text": "BP「こなもん」",
-		"tr_text": "",
+		"tr_text": "BP \"Konamon\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11593,21 +11593,21 @@
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Durga I Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠGアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Durga IG Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ドゥルガーⅠG-DQVアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Durga IG-DQV Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11642,14 +11642,14 @@
 	},
 	{
 		"jp_text": "BP「ウォータースペース：立方体」",
-		"tr_text": "",
+		"tr_text": "BP \"Water Space: Cube\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ウォータースペース：円柱」",
-		"tr_text": "",
+		"tr_text": "BP \"Water Space: Cylinder\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11691,42 +11691,42 @@
 	},
 	{
 		"jp_text": "BP「グラヴィルベオーネ（ソード）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Bayone (Sword)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルベオーネ（ライフル）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Bayone (Rifle)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルトリーア（カタナ）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Tria (Katana)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルラルーゴ（ロッド）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Ralugo (Rod)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルクルーツ（マシンガン）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Crootz (Machineguns)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「グラヴィルフルーガ（バレットボウ）」",
-		"tr_text": "",
+		"tr_text": "BP \"Gravil Fluga (Bullet Bow)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11824,210 +11824,210 @@
 	},
 	{
 		"jp_text": "BP「有間都古アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Miyako Arima Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「死徒ノエルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Dead Apostle Noel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「完全武装シエルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Powered Ciel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ネコアルクアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Neco-Arc Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「遠野志貴アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Shiki Tohno Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「アルクェイドアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Arcueid Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「遠野秋葉アクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Akiha Tohno Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シエルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Ciel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスターC」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster C\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスターD」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster D\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスターB」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster B\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「死徒ノエルの槍」",
-		"tr_text": "",
+		"tr_text": "BP \"Dead Apostle Noel's Spear\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「第七聖典・焼死（ブレイズ）」",
-		"tr_text": "",
+		"tr_text": "BP \"7th Holy Scripture: Death by Burning (Blaze)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「第七聖典・出血死（ブレイド）」",
-		"tr_text": "",
+		"tr_text": "BP \"7th Holy Scripture: Death by Bleeding (Blade)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「第七聖典・衝突死（ブレイク）」",
-		"tr_text": "",
+		"tr_text": "BP \"7th Holy Scripture: Death by Impact (Break)\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ネコアルク」",
-		"tr_text": "",
+		"tr_text": "BP \"Neco-Arc\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「メルティブラッド：ポスター」",
-		"tr_text": "",
+		"tr_text": "BP \"Melty Blood: Poster\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フリーレンアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フェルンアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Fern Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シュタルクアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Stark Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ヒンメルアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Himmel Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ハイターアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Heiter Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「アイゼンアクスタ」",
-		"tr_text": "",
+		"tr_text": "BP \"Eisen Acrylic Stand\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：ポスター」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Poster\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：防御魔法」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Defensive Magic\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン×ＮＧＳポスター」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren x NGS Poster\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：一般攻撃魔法」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Offensive Magic\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フリーレンの杖」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren's Staff\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「フェルンの杖」",
-		"tr_text": "",
+		"tr_text": "BP \"Fern's Staff\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「シュタルクの斧」",
-		"tr_text": "",
+		"tr_text": "BP \"Stark's Axe\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0

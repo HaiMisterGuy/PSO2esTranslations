@@ -704,14 +704,14 @@
 		"jp_text": "＊ソンブリーラヴェラーノ",
 		"tr_text": "＊Sombrila Verano",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Rod<c>"
 	},
 	{
 		"assign": "1011010017",
 		"jp_text": "＊ソンブリーラエルカロール",
 		"tr_text": "＊Sombrila Elcalor",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Rod<c>"
 	},
 	{
 		"assign": "10110108",
@@ -725,7 +725,7 @@
 		"jp_text": "＊アルナイルロッド",
 		"tr_text": "＊Alnair Rod",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド／ソード　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Rod/Sword\nand others<c>"
 	},
 	{
 		"assign": "10110109",
@@ -737,21 +737,21 @@
 	{
 		"assign": "1011010020",
 		"jp_text": "＊フリーレンの杖",
-		"tr_text": "",
+		"tr_text": "＊Frieren's Staff",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド／ウォンド<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Rod/Wand<c>"
 	},
 	{
 		"assign": "1011010021",
 		"jp_text": "＊フェルンの杖",
-		"tr_text": "",
+		"tr_text": "＊Fern's Staff",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド／ウォンド<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Rod/Wand<c>"
 	},
 	{
 		"assign": "10110110",
 		"jp_text": "＊トワイライトルーン",
-		"tr_text": "",
+		"tr_text": "＊Twilight Rune",
 		"jp_explain": "夜を愛する芸術家が想いを込めた長杖型\n武器迷彩。満ち欠けする月が満ちた\nその時、真の姿をあらわすという。",
 		"tr_explain": ""
 	},
@@ -760,6 +760,6 @@
 		"jp_text": "＊タクティオコラスファイ",
 		"tr_text": "",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド／バレットボウ　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Rod/Bullet Bow<c>"
 	}
 ]

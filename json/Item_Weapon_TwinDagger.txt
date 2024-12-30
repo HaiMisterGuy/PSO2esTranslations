@@ -228,7 +228,7 @@
 		"jp_text": "ツインチャクラム",
 		"tr_text": "Twin Chakram",
 		"jp_explain": "フォトンによる円状の刃を持つ双小剣。\n近距離専用の武器で、攻撃速度に優れ\n多数の敵を相手取るのに向いている。",
-		"tr_explain": ""
+		"tr_explain": "Twin Daggers with circular Photon\nblades. Their excellent attack speed is\nsuitable for taking on multiple enemies."
 	},
 	{
 		"assign": "14033",
@@ -382,7 +382,7 @@
 		"jp_text": "ホワイトディナー",
 		"tr_text": "White Dinner",
 		"jp_explain": "華やかな夕食に相応しく、純白を\n基調に作られた特殊な双小剣。\n戦闘使用は想定されていなかった。",
-		"tr_explain": ""
+		"tr_explain": "A special pair of Twin Daggers cast in\npure white, suitable for a splendid dinner.\nNot intended for combat."
 	},
 	{
 		"assign": "14061",

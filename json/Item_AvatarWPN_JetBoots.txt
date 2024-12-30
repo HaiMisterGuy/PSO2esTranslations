@@ -261,7 +261,7 @@
 	{
 		"assign": "1016033",
 		"jp_text": "＊ハイパーレインボー",
-		"tr_text": "",
+		"tr_text": "＊Hyper Rainbow",
 		"jp_explain": "競技用に開発されたホイールが、\n高速回転するスポーティーな魔装脚型\n武器迷彩。様々なアクションに挑戦！",
 		"tr_explain": ""
 	}

@@ -410,20 +410,20 @@
 		"jp_text": "＊輻射推進型自在可動有線式右腕部",
 		"tr_text": "＊Right Arm-inbuilt Radiation Wave Unit",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ワイヤードランス／ナックル　ほか<c>",
-		"tr_explain": ""
+		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Wired Lance/Knuckles\nand others<c>"
 	},
 	{
 		"assign": "102053",
 		"jp_text": "＊ギガススピナー",
-		"tr_text": "",
+		"tr_text": "＊Gigas Spinner",
 		"jp_explain": "巨大な鉄球を先端に結びつけた自在槍型\n武器迷彩。鋭いトゲと重量にものを\n言わせた一撃はどんな装甲も破砕する。",
-		"tr_explain": ""
+		"tr_explain": "Wired Lance camo with huge iron balls\nattached. Its immense weight and\nsharp spikes can crush any armor."
 	},
 	{
 		"assign": "102054",
 		"jp_text": "＊ブレイド・ボール",
-		"tr_text": "",
+		"tr_text": "＊Blade Ball",
 		"jp_explain": "遊戯具を改造してしまった自在槍型\n武器迷彩。遊びのつもりで振るうと\n大怪我をしてしまう。",
-		"tr_explain": ""
+		"tr_explain": "Wired Lance weapon camouflage based\non a modified toy.\nDon't play with it, or you'll hurt yourself!"
 	}
 ]

@@ -200,7 +200,7 @@
 		"jp_text": "Ｈ＆Ｓ２５ジャスティス",
 		"tr_text": "H&S25 Justice",
 		"jp_explain": "珠玉の一品として名高い双機銃。\n凍り付くほどに洗練された\nフォトンの弾が、敵を射貫く。",
-		"tr_explain": "An iconic pair of Twin Machineguns\nTheir Photon bullets are refined into a\nconfiguration that freezes enemies."
+		"tr_explain": "An iconic pair of Twin Machineguns.\nTheir Photon bullets are refined into a\nconfiguration that freezes enemies."
 	},
 	{
 		"assign": "110030",
@@ -452,7 +452,7 @@
 		"jp_text": "ミズーリＭ１３",
 		"tr_text": "Missouri M13",
 		"jp_explain": "発売されて以来絶大な支持を得ている\n天才デザイナーの出世作となった双機銃。\nデザインのみならず火力も追求している。",
-		"tr_explain": "A popular set of Machineguns that\nreceived huge support since its\nrelease for its design and power."
+		"tr_explain": "A popular set of Machineguns which\nreceived huge support since its\nrelease for its design and power."
 	},
 	{
 		"assign": "110069",
@@ -522,7 +522,7 @@
 		"jp_text": "バレットクナイ",
 		"tr_text": "Bullet Kunai",
 		"jp_explain": "かつて隠密の任に就いていた者の\n飛び道具を再現した双機銃。\n華麗な攻撃で標的を仕留める。",
-		"tr_explain": ""
+		"tr_explain": "Twin Machineguns based on the\nprojectile weapons of ancient spies.\nThey take down targets with elegance."
 	},
 	{
 		"assign": "110095",

@@ -291,21 +291,21 @@
 		"jp_text": "タルラッピーキャノン",
 		"tr_text": "Barrel Rappy Cannon",
 		"jp_explain": "ラッピーの姿を模した弾を撃つ大砲。\n愛らしいその姿で女性を中心に人気だが\nラッピーが可哀想という声もちらほら。",
-		"tr_explain": ""
+		"tr_explain": "A Launcher that fires Rappy-shaped\nbullets. Popular among women, but some\npeople feel sorry for the Rappies."
 	},
 	{
 		"assign": "19044",
 		"jp_text": "アルラッピーキャノン",
 		"tr_text": "Al Rappy Cannon",
 		"jp_explain": "ラッピーを模した弾を撃つ全クラス\n装備可能な、特殊な大砲。\nその青は絶望の色……ではないはず。",
-		"tr_explain": ""
+		"tr_explain": "A special all-Class Launcher that fires\nRappy-shaped bullets. Their blue is the\ncolor of despair... But how can that be?"
 	},
 	{
 		"assign": "19045",
 		"jp_text": "ラブラッピーキャノン",
 		"tr_text": "Love Rappy Cannon",
 		"jp_explain": "ラッピーの姿を模した弾を撃つ大砲。\n興奮し体を紅潮させているわけではない。\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": ""
+		"tr_explain": "A Launcher that fires Rappy-shaped\nbullets. Flushed red, but not from\nexcitement. All Classes can equip."
 	},
 	{
 		"assign": "19046",
