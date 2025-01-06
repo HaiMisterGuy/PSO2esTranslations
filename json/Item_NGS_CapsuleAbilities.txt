@@ -4383,7 +4383,7 @@
 	},
 	{
 		"jp_text": "C/グラングラディエ・ソールLC",
-		"tr_text": "C/Gran Gladier LC",
+		"tr_text": "C/Gran Gladier Soul LC",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
@@ -4488,7 +4488,7 @@
 	},
 	{
 		"jp_text": "C/グラングラディエ・ソールLCS",
-		"tr_text": "C/Gran Gladier LC S",
+		"tr_text": "C/Gran Gladier Soul LC S",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
@@ -4593,14 +4593,14 @@
 	},
 	{
 		"jp_text": "C/グランドレド・キーパⅠLC",
-		"tr_text": "C/Gran Dread Keeper LC",
+		"tr_text": "C/Gran Dread Keeper I LC",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/グランドレド・キーパⅠLCS",
-		"tr_text": "C/Gran Dread Keeper LC S",
+		"tr_text": "C/Gran Dread Keeper I LC S",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "A capsule that adds a Special Ability\nto a weapon or piece of armor.",
 		"assign": 0
