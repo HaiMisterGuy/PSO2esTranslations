@@ -2214,7 +2214,7 @@
 	{
 		"assign": "110010069",
 		"jp_text": "トワル・レルヒマシンガン",
-		"tr_text": "",
+		"tr_text": "Twel Lerche Machineguns",
 		"jp_explain": "",
 		"tr_explain": ""
 	}

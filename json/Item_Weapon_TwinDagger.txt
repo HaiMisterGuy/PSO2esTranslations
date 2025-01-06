@@ -1962,7 +1962,7 @@
 	{
 		"assign": "14010074",
 		"jp_text": "トワル・レルヒダガー",
-		"tr_text": "",
+		"tr_text": "Twel Lerche Daggers",
 		"jp_explain": "",
 		"tr_explain": ""
 	}

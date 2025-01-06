@@ -2053,7 +2053,7 @@
 	{
 		"assign": "112010059",
 		"jp_text": "トワル・トレファルタリス",
-		"tr_text": "Towaru",
+		"tr_text": "Twel Trefal Talis ",
 		"jp_explain": "",
 		"tr_explain": ""
 	}
