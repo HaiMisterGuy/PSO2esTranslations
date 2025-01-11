@@ -2829,7 +2829,7 @@
 	},
 	{
 		"jp_text": "PH「葬送のフリーレン：ロゴ(Ef)」",
-		"tr_text": "",
+		"tr_text": "PH \"Frieren: Logo (Ef)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
@@ -2843,7 +2843,7 @@
 	},
 	{
 		"jp_text": "PH「葬送のフリーレン：防御魔法(Ef)」",
-		"tr_text": "",
+		"tr_text": "PH \"Frieren: Defensive Magic (Ef)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
@@ -2885,7 +2885,7 @@
 	},
 	{
 		"jp_text": "PH「葬送のフリーレン：一般攻撃魔法(Ef)」",
-		"tr_text": "",
+		"tr_text": "PH \"Frieren: Ordinary Offensive Magic (Ef)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0

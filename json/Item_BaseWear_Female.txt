@@ -43983,28 +43983,28 @@
 	{
 		"assign": "335011680",
 		"jp_text": "フェルンの服[Ba]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011681",
 		"jp_text": "フェルンの服/2[Ba]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes/2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011682",
 		"jp_text": "フェルンの服/3[Ba]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes/3 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011683",
 		"jp_text": "フェルンの服/4[Ba]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes/4 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
@@ -44172,56 +44172,56 @@
 	{
 		"assign": "335011707",
 		"jp_text": "フリーレンの服[Se]",
-		"tr_text": "",
+		"tr_text": "Frieren's Clothes [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011708",
 		"jp_text": "フリーレンの服/2[Se]",
-		"tr_text": "",
+		"tr_text": "Frieren's Clothes/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011709",
 		"jp_text": "フリーレンの服/B[Se]",
-		"tr_text": "",
+		"tr_text": "Frieren's Clothes/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011710",
 		"jp_text": "フリーレンの服/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Frieren's Clothes/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011711",
 		"jp_text": "フェルンの服[Se]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011712",
 		"jp_text": "フェルンの服/2[Se]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011713",
 		"jp_text": "フェルンの服/B[Se]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011714",
 		"jp_text": "フェルンの服/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Fern's Clothes/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},

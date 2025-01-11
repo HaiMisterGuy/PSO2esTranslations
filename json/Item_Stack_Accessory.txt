@@ -85913,28 +85913,28 @@
 	{
 		"assign": "38011933",
 		"jp_text": "フリーレンのトランクカバン",
-		"tr_text": "",
+		"tr_text": "Frieren's Briefcase",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011934",
 		"jp_text": "フリーレンのイヤリング",
-		"tr_text": "",
+		"tr_text": "Frieren's Earrings",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011935",
 		"jp_text": "鏡蓮華のブレスレット",
-		"tr_text": "",
+		"tr_text": "Mirrored Lotus Bracelet",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011936",
 		"jp_text": "シュタルクの腕輪",
-		"tr_text": "",
+		"tr_text": "Stark's Bracelet",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},

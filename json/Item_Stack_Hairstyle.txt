@@ -16088,21 +16088,21 @@
 	{
 		"assign": "315010455",
 		"jp_text": "フリーレンの髪型",
-		"tr_text": "",
+		"tr_text": "Frieren's Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010456",
 		"jp_text": "フェルンの髪型",
-		"tr_text": "",
+		"tr_text": "Fern's Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010457",
 		"jp_text": "シュタルクの髪型",
-		"tr_text": "",
+		"tr_text": "Stark's Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},

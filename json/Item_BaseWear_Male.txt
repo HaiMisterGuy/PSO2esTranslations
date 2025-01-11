@@ -22612,28 +22612,28 @@
 	{
 		"assign": "334010927",
 		"jp_text": "シュタルクの服[Se]",
-		"tr_text": "",
+		"tr_text": "Stark's Clothes [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "334010928",
 		"jp_text": "シュタルクの服/2[Se]",
-		"tr_text": "",
+		"tr_text": "Stark's Clothes/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "334010929",
 		"jp_text": "シュタルクの服/B[Se]",
-		"tr_text": "",
+		"tr_text": "Stark's Clothes/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "334010930",
 		"jp_text": "シュタルクの服/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Stark's Clothes/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},

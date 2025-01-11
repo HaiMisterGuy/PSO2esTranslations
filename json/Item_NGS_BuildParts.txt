@@ -12006,7 +12006,7 @@
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：一般攻撃魔法」",
-		"tr_text": "BP \"Frieren: Offensive Magic\"",
+		"tr_text": "BP \"Frieren: Ordinary Offensive Magic\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
