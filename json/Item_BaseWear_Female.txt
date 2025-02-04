@@ -44011,7 +44011,7 @@
 	{
 		"assign": "335011684",
 		"jp_text": "カナギセラギ[Ba]",
-		"tr_text": "",
+		"tr_text": "Kanagi Seragi [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
@@ -44256,28 +44256,28 @@
 	{
 		"assign": "335011719",
 		"jp_text": "オトギヨウキ[Se]",
-		"tr_text": "",
+		"tr_text": "Otogi Youki [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011720",
 		"jp_text": "オトギヨウキ/2[Se]",
-		"tr_text": "",
+		"tr_text": "Otogi Youki/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011721",
 		"jp_text": "オトギヨウキ/B[Se]",
-		"tr_text": "",
+		"tr_text": "Otogi Youki/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
 	{
 		"assign": "335011722",
 		"jp_text": "オトギヨウキ/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Otogi Youki/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new setwear for use."
 	},
@@ -44333,21 +44333,21 @@
 	{
 		"assign": "335011730",
 		"jp_text": "カナギセラギ/2[Ba]",
-		"tr_text": "",
+		"tr_text": "Kanagi Seragi/2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011731",
 		"jp_text": "カナギセラギ/3[Ba]",
-		"tr_text": "",
+		"tr_text": "Kanagi Seragi/3 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},
 	{
 		"assign": "335011732",
 		"jp_text": "カナギセラギ/4[Ba]",
-		"tr_text": "",
+		"tr_text": "Kanagi Seragi/4 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": "Unlocks a new basewear for use."
 	},

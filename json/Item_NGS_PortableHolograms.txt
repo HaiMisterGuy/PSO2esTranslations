@@ -1618,21 +1618,21 @@
 	},
 	{
 		"jp_text": "PH「プレ・プレ・ボッカス(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Pre Pre Box (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ハッポウドリンク(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"Foaming Drink (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「アークスレトロボトル(Ob)」",
-		"tr_text": "",
+		"tr_text": "PH \"ARKS Retro Bottles (Ob)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
@@ -2283,7 +2283,7 @@
 	},
 	{
 		"jp_text": "PH「スポットライトサークル(Pa)」",
-		"tr_text": "",
+		"tr_text": "PH \"Spotlight Circle (Pa)\"",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0

@@ -6806,14 +6806,14 @@
 	{
 		"assign": "328010163",
 		"jp_text": "クッキリスリムまつげ/G",
-		"tr_text": "",
+		"tr_text": "Clear Slim Eyelashes/G",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyelash type for use."
 	},
 	{
 		"assign": "328010164",
 		"jp_text": "メジリノハバヒロまつげ",
-		"tr_text": "",
+		"tr_text": "Outer Wide Eyelashes",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyelash type for use."
 	},

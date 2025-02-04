@@ -16116,21 +16116,21 @@
 	{
 		"assign": "315010459",
 		"jp_text": "オボロトウキヘアー",
-		"tr_text": "",
+		"tr_text": "Oboro Touki Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010460",
 		"jp_text": "オトギヨウキヘアー",
-		"tr_text": "",
+		"tr_text": "Otogi Youki Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	},
 	{
 		"assign": "315010461",
 		"jp_text": "カナギセラギヘアー",
-		"tr_text": "",
+		"tr_text": "Kanagi Seragi Hair",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": "Unlocks a new hairstyle for use."
 	}

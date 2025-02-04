@@ -85962,84 +85962,84 @@
 	{
 		"assign": "38011940",
 		"jp_text": "ラージギア",
-		"tr_text": "",
+		"tr_text": "Large Gear",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011941",
 		"jp_text": "ラージギア/B",
-		"tr_text": "",
+		"tr_text": "Large Gear/B",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011942",
 		"jp_text": "サンダードラム",
-		"tr_text": "",
+		"tr_text": "Thunder Drums",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011943",
 		"jp_text": "アミリボンヘッドドレス",
-		"tr_text": "",
+		"tr_text": "Braided Ribbon Headdress",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011944",
 		"jp_text": "ルミナスボトル",
-		"tr_text": "",
+		"tr_text": "Luminous Bottle",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011945",
 		"jp_text": "シャープアイアンアームガード",
-		"tr_text": "",
+		"tr_text": "Sharp Iron Arm Guards",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011946",
 		"jp_text": "ルミナスビーズネックレス",
-		"tr_text": "",
+		"tr_text": "Luminous Bead Necklace",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011947",
 		"jp_text": "ローグウェストマント",
-		"tr_text": "",
+		"tr_text": "Rogue Waist Cloak",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011948",
 		"jp_text": "ゴージャスジュエリーピアス",
-		"tr_text": "",
+		"tr_text": "Gorgeous Jewel Earring",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011949",
 		"jp_text": "SD-01アームブレード",
-		"tr_text": "",
+		"tr_text": "SD-01 Arm Blades",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011950",
 		"jp_text": "SD-01アームブレード/B",
-		"tr_text": "",
+		"tr_text": "SD-01 Arm Blades/B",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011951",
 		"jp_text": "N-戦国風肩鎧",
-		"tr_text": "",
+		"tr_text": "N-Sengoku Shoulder Armor",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
@@ -86060,21 +86060,21 @@
 	{
 		"assign": "38011954",
 		"jp_text": "オボロトウキホルン",
-		"tr_text": "",
+		"tr_text": "Oboro Touki Horns",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011955",
 		"jp_text": "オトギヨウキホルン",
-		"tr_text": "",
+		"tr_text": "Otogi Youki Horns",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},
 	{
 		"assign": "38011956",
 		"jp_text": "カナギセラギヘアアクセ",
-		"tr_text": "",
+		"tr_text": "Kanagi Seragi Hair Accessory",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": "Unlocks a new accessory for use."
 	},

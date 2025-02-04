@@ -2550,14 +2550,14 @@
 	{
 		"assign": "327010176",
 		"jp_text": "スリムカクカクまゆ",
-		"tr_text": "",
+		"tr_text": "Slim Blocky Eyebrows",
 		"jp_explain": "使用すると新しいまゆが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyebrow type for use."
 	},
 	{
 		"assign": "327010177",
 		"jp_text": "ションボリまゆ/C",
-		"tr_text": "",
+		"tr_text": "Dispirited Eyebrows/C",
 		"jp_explain": "使用すると新しいまゆが\n選択可能になる。",
 		"tr_explain": "Unlocks a new eyebrow type for use."
 	},
