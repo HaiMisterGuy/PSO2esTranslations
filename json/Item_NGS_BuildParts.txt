@@ -204,7 +204,7 @@
 	},
 	{
 		"jp_text": "BP「カガミモチ」",
-		"tr_text": "",
+		"tr_text": "BP \"Kagami Mochi\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -12195,7 +12195,7 @@
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：防御魔法」",
-		"tr_text": "",
+		"tr_text": "BP \"Frieren: Defensive Magic\"",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -12308,6 +12308,69 @@
 	{
 		"jp_text": "BP「シュタルクの斧」",
 		"tr_text": "BP \"Stark's Axe\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「上条当麻アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「インデックスアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「御坂美琴アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「神裂火織アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アクセラレータアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「七天七刀」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「とある魔術の禁書目録×ＮＧＳポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「せんとらるっ！：ポスターC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「とある魔術の禁書目録：ポスター」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
