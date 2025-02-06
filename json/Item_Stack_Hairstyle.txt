@@ -16137,49 +16137,49 @@
 	{
 		"assign": "315010462",
 		"jp_text": "上条当麻の髪型",
-		"tr_text": "",
+		"tr_text": "Touma Kamijo's Hairstyle",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010463",
 		"jp_text": "アクセラレータの髪型",
-		"tr_text": "",
+		"tr_text": "Accelerator's Hairstyle",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010464",
 		"jp_text": "インデックスの髪型",
-		"tr_text": "",
+		"tr_text": "Index's Hairstyle",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010465",
 		"jp_text": "インデックスの髪型/B",
-		"tr_text": "",
+		"tr_text": "Index's Hairstyle/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010466",
 		"jp_text": "御坂美琴の髪型",
-		"tr_text": "",
+		"tr_text": "Mikoto Misaka's Hairstyle",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010467",
 		"jp_text": "御坂妹の髪型",
-		"tr_text": "",
+		"tr_text": "Little Misaka's Hairstyle",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "315010468",
 		"jp_text": "神裂火織の髪型",
-		"tr_text": "",
+		"tr_text": "Kaori Kanzaki's Hairstyle",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
 		"tr_explain": ""
 	},

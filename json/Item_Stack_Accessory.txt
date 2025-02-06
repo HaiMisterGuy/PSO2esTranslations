@@ -86221,21 +86221,21 @@
 	{
 		"assign": "38011964",
 		"jp_text": "御坂妹のゴーグル",
-		"tr_text": "",
+		"tr_text": "Little Misaka's Goggles",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "38011965",
 		"jp_text": "アクセラレータの杖",
-		"tr_text": "",
+		"tr_text": "Accelerator's Crutch",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "38011966",
 		"jp_text": "アクセラレータの演算補助デバイス",
-		"tr_text": "",
+		"tr_text": "Accelerator's Calculation Assistance Device",
 		"jp_explain": "使用すると新しいアクセサリーが\n選択可能になる。",
 		"tr_explain": ""
 	},

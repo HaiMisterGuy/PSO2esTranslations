@@ -4958,21 +4958,21 @@
 	{
 		"assign": "326010177",
 		"jp_text": "ヨハネのペンの瞳",
-		"tr_text": "",
+		"tr_text": "John's Pen Eyes",
 		"jp_explain": "使用すると新しい瞳パターンが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326010178",
 		"jp_text": "御坂妹の瞳",
-		"tr_text": "",
+		"tr_text": "Little Misaka's Eyes",
 		"jp_explain": "使用すると新しい瞳パターンが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326010179",
 		"jp_text": "アクセラレータの瞳",
-		"tr_text": "",
+		"tr_text": "Accelerator's Eyes",
 		"jp_explain": "使用すると新しい瞳パターンが\n選択可能になる。",
 		"tr_explain": ""
 	},
@@ -5056,7 +5056,7 @@
 	{
 		"assign": "326010202",
 		"jp_text": "ヨハネのペンの瞳/B",
-		"tr_text": "",
+		"tr_text": "John's Pen Eyes/B",
 		"jp_explain": "使用すると新しい瞳パターンが\n選択可能になる。",
 		"tr_explain": ""
 	}

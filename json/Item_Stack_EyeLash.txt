@@ -6827,7 +6827,7 @@
 	{
 		"assign": "328010166",
 		"jp_text": "御坂美琴のまつげ",
-		"tr_text": "",
+		"tr_text": "Mikoto Misaka's Eyelashes",
 		"jp_explain": "使用すると新しいまつげが\n選択可能になる。",
 		"tr_explain": ""
 	},

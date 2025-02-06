@@ -17894,42 +17894,42 @@
 	{
 		"assign": "318010163",
 		"jp_text": "T1上条当麻ボイス",
-		"tr_text": "",
+		"tr_text": "T1 Touma Kamijo Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ阿部 敦",
 		"tr_explain": ""
 	},
 	{
 		"assign": "318010165",
 		"jp_text": "T2インデックスボイス",
-		"tr_text": "",
+		"tr_text": "T2 Index Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ井口 裕香",
 		"tr_explain": ""
 	},
 	{
 		"assign": "318010167",
 		"jp_text": "T2御坂美琴ボイス",
-		"tr_text": "",
+		"tr_text": "T2 Mikoto Misaka Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ佐藤 利奈",
 		"tr_explain": ""
 	},
 	{
 		"assign": "318010169",
 		"jp_text": "T2御坂妹ボイス",
-		"tr_text": "",
+		"tr_text": "T2 Little Misaka Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶささき のぞみ",
 		"tr_explain": ""
 	},
 	{
 		"assign": "318010171",
 		"jp_text": "T2神裂火織ボイス",
-		"tr_text": "",
+		"tr_text": "T2 Kaori Kanzaki Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ伊藤 静",
 		"tr_explain": ""
 	},
 	{
 		"assign": "318010173",
 		"jp_text": "T1アクセラレータボイス",
-		"tr_text": "",
+		"tr_text": "T1 Accelerator Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nＣＶ岡本 信彦",
 		"tr_explain": ""
 	},

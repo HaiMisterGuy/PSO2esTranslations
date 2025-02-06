@@ -22815,56 +22815,56 @@
 	{
 		"assign": "334010957",
 		"jp_text": "上条当麻の服T1[Se]",
-		"tr_text": "",
+		"tr_text": "Touma Kamijo's Clothes T1 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010958",
 		"jp_text": "上条当麻の服T1/2[Se]",
-		"tr_text": "",
+		"tr_text": "Touma Kamijo's Clothes T1/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010959",
 		"jp_text": "上条当麻の服T1/B[Se]",
-		"tr_text": "",
+		"tr_text": "Touma Kamijo's Clothes T1/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010960",
 		"jp_text": "上条当麻の服T1/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Touma Kamijo's Clothes T1/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010961",
 		"jp_text": "アクセラレータの服T1[Se]",
-		"tr_text": "",
+		"tr_text": "Accelerator's Clothes T1 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010962",
 		"jp_text": "アクセラレータの服T1/2[Se]",
-		"tr_text": "",
+		"tr_text": "Accelerator's Clothes T1/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010963",
 		"jp_text": "アクセラレータの服T1/B[Se]",
-		"tr_text": "",
+		"tr_text": "Accelerator's Clothes T1/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "334010964",
 		"jp_text": "アクセラレータの服T1/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Accelerator's Clothes T1/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},

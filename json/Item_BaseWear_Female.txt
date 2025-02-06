@@ -44368,28 +44368,28 @@
 	{
 		"assign": "335011735",
 		"jp_text": "御坂美琴の服T2[Ba]",
-		"tr_text": "",
+		"tr_text": "Mikoto Misaka's Clothes T2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011736",
 		"jp_text": "御坂美琴の服T2/B[Ba]",
-		"tr_text": "",
+		"tr_text": "Mikoto Misaka's Clothes T2/B [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011737",
 		"jp_text": "御坂妹の服T2[Ba]",
-		"tr_text": "",
+		"tr_text": "Little Misaka's Clothes T2 [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011738",
 		"jp_text": "御坂妹の服T2/B[Ba]",
-		"tr_text": "",
+		"tr_text": "Little Misaka's Clothes T2/B [Ba]",
 		"jp_explain": "使用すると新しいベースウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
@@ -44522,56 +44522,56 @@
 	{
 		"assign": "335011757",
 		"jp_text": "インデックスの服T2[Se]",
-		"tr_text": "",
+		"tr_text": "Index's Clothes T2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011758",
 		"jp_text": "インデックスの服T2/2[Se]",
-		"tr_text": "",
+		"tr_text": "Index's Clothes T2/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011759",
 		"jp_text": "インデックスの服T2/B[Se]",
-		"tr_text": "",
+		"tr_text": "Index's Clothes T2/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011760",
 		"jp_text": "インデックスの服T2/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Index's Clothes T2/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011761",
 		"jp_text": "神裂火織の服T2[Se]",
-		"tr_text": "",
+		"tr_text": "Kaori Kanzaki's Clothes T2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011762",
 		"jp_text": "神裂火織の服T2/2[Se]",
-		"tr_text": "",
+		"tr_text": "Kaori Kanzaki's Clothes T2/2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011763",
 		"jp_text": "神裂火織の服T2/B[Se]",
-		"tr_text": "",
+		"tr_text": "Kaori Kanzaki's Clothes T2/B [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "335011764",
 		"jp_text": "神裂火織の服T2/B2[Se]",
-		"tr_text": "",
+		"tr_text": "Kaori Kanzaki's Clothes T2/B2 [Se]",
 		"jp_explain": "使用すると新しいセットウェアが\n選択可能になる。",
 		"tr_explain": ""
 	},

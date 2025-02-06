@@ -548,7 +548,7 @@
 	{
 		"assign": "1014010018",
 		"jp_text": "＊七天七刀",
-		"tr_text": "",
+		"tr_text": "＊Seven Heavens Sword",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：カタナ／ソード<c>",
 		"tr_explain": ""
 	}
