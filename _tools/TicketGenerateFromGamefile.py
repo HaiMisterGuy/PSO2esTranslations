@@ -91,13 +91,13 @@ wiki_urls = {
 trade_mapping = {
     'ngs_mo': ('モーション', (mo_trade_infos, )),
     'makapo_bp': ('build-parts-list', (bp_trade_infos, )),
-    'ngs_bp1': ('クリエイティブスペース/ビルドパーツ/建材', (bp_trade_infos, )),
-    'ngs_bp2': ('クリエイティブスペース/ビルドパーツ/建築物・道具・器具', (bp_trade_infos, )),
-    'ngs_bp3': ('クリエイティブスペース/ビルドパーツ/自然物', (bp_trade_infos, )),
-    'ngs_bp4': ('クリエイティブスペース/ビルドパーツ/家具', (bp_trade_infos, )),
-    'ngs_bp5': ('クリエイティブスペース/ビルドパーツ/ギミックパーツ', (bp_trade_infos, )),
-    'ngs_bp6': ('クリエイティブスペース/ビルドパーツ/立体図形', (bp_trade_infos, )),
-    'ngs_bp7': ('クリエイティブスペース/ビルドパーツ/コラボ', (bp_trade_infos, )),
+    'ngs_bp1': ('ビルドパーツ/建材', (bp_trade_infos, )),
+    'ngs_bp2': ('ビルドパーツ/建築物・道具・器具', (bp_trade_infos, )),
+    'ngs_bp3': ('ビルドパーツ/自然物', (bp_trade_infos, )),
+    'ngs_bp4': ('ビルドパーツ/家具', (bp_trade_infos, )),
+    'ngs_bp5': ('ビルドパーツ/ギミックパーツ', (bp_trade_infos, )),
+    'ngs_bp6': ('ビルドパーツ/立体図形', (bp_trade_infos, )),
+    'ngs_bp7': ('ビルドパーツ/コラボ', (bp_trade_infos, )),
     'ngs_ph': ('ポータブルホログラム', (ph_trade_infos, )),
     'ngs_bg': ('アークスカード', (bg_trade_infos, )),
     'ngs_ma': ('ラインストライク', (ma_trade_infos, sv_trade_infos, )),
@@ -343,13 +343,18 @@ def form_vo_names(text_id, jp_fulltext, tr_fulltext):
 
     # Initialize
     vo_jp_type = vo_tr_type = [""]
-    vo_jp_name_prefix = vo_tr_name_prefix = ""
+    vo_jp_number = vo_tr_number = ""
     vo_jp_suffix = vo_tr_suffix = [""]
     vo_jp_suffix2 = vo_tr_suffix2 = ""
 
     # Generate all remaining parts of the final text
     if vo_ver == "ngs":
         vo_jp_suffix, vo_tr_suffix = ["ボイス"], ["語音"]
+        if re.match(r'^T\d.*\d{3}$', vo_jp_name):
+            vo_jp_number = vo_jp_name[-3:]
+            vo_tr_number = vo_tr_name[-3:]
+            vo_jp_name = vo_jp_name[2:-3]
+            vo_tr_name = vo_tr_name[2:-3]
     elif vo_ver == "o2":
         vo_jp_type, vo_tr_type = ["", "Ｃ", "共通"], ["", "C", "共通"]
         if vo_jp_name.startswith(("追加ボイス", "［ＥＸ］ボイス")):
@@ -369,18 +374,19 @@ def form_vo_names(text_id, jp_fulltext, tr_fulltext):
         vo_tr_name, vo_tr_suffix2 = match_trans.group(1), match_trans.group(2)
 
     # Combine
-    jp_texts = [f"{vo_gend}{vo_jp_typ}{vo_jp_name_pref}{vo_jp_nam}{vo_jp_suff}{vo_jp_suff2}"
+    # 男性/女性/T1/T2/ + Ｃ/共通 + name + ボイス/Ｖｏ/　Ｖｏ + number + /B/C/D...
+    jp_texts = [f"{vo_gend}{vo_jp_typ}{vo_jp_nam}{vo_jp_suff}{vo_jp_num}{vo_jp_suff2}"
         for vo_gend in [vo_gender]
         for vo_jp_typ in vo_jp_type
-        for vo_jp_name_pref in [vo_jp_name_prefix]
         for vo_jp_nam in [vo_jp_name]
+        for vo_jp_num in [vo_jp_number]
         for vo_jp_suff in vo_jp_suffix
         for vo_jp_suff2 in [vo_jp_suffix2]]
-    tr_texts = [f"{vo_gend}{vo_tr_typ}{' ' if re.match(r'^[a-zA-Z]', vo_tr_name) and (vo_ver == 'ngs' or vo_tr_typ == 'C') else ''}{vo_tr_nam}{vo_tr_suff}{vo_tr_suff2}"
+    tr_texts = [f"{vo_gend}{vo_tr_typ}{' ' if re.match(r'^[a-zA-Z]', vo_tr_name) and (vo_ver == 'ngs' or vo_tr_typ == 'C') else ''}{vo_tr_nam}{vo_tr_suff}{vo_tr_num}{vo_tr_suff2}"
         for vo_gend in [vo_gender]
         for vo_tr_typ in vo_tr_type
-        for vo_tr_name_prefix in [' ' if re.match(r'^[a-zA-Z]', vo_tr_name) and (vo_ver == 'ngs' or vo_tr_typ == 'C') else '']
         for vo_tr_nam in [vo_tr_name]
+        for vo_tr_num in [vo_tr_number]
         for vo_tr_suff in vo_tr_suffix
         for vo_tr_suff2 in [vo_tr_suffix2]]
 
@@ -592,6 +598,8 @@ ca_itypes_order = [
     # Update 2 (PSO2es Chars, MELTY BLOOD Collab)
     (1170, "Fire"), (1190, "Ice"), (1210, "Lightning"), (1240, "Wind"), (1260, "Light"), (1300, "Dark"),
     (1321, "Ice"), (1331, "Dark"),
+    # Update 3 (Index Collab)
+    (1701, "Light"), (1711, "Lightning"), (1721, "Wind"),
     # Future updates
     (99999, None)
 ]
@@ -812,9 +820,14 @@ def extra_condition(prefix, jp_text, text_id):
         return jp_text.endswith(("EX"))
     elif prefix == "bp":
         return (jp_text.startswith((
+        # NGS
         "エアル：", "リテナ：", "ノクト：", "エウロ：", "クヴァル：", "ピエド：", "ワフウ：",
         "『NGS", "『PSO2", "超・", "立体図形：", "立体数字：", "アクリル台座・", "ラインストライク",
-        "ベーシック", "モダン", "クラシック", "ゴシック", "スイート", "エキゾチックトラッド", "ウェスタン", "ワノ", "レトロ", "オールド", "ファンシー", "ラボラトリー", "エレガント", "ナイトクラブ", "ウッディ", "学校の", "リゾート", "ビンテージ",
+        # PSO2 Theme
+        "ベーシック", "モダン", "ゴシック", "クラシック", "スイート", "エキゾチックトラッド", "ウェスタン", "ワノ", "レトロ", "オールド", "ファンシー", "ラボラトリー", "エレガント", "ナイトクラブ", "ウッディ", "学校の", "リゾート", "ビンテージ",
+        # PSO2 Others
+        "スペースシップ", "オッソリア",
+        # Mini
         "ミニ")) and not jp_text.startswith(("ミニミニ"))
         or jp_text.endswith(
         "アクスタ"))
