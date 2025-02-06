@@ -2889,5 +2889,26 @@
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
 		"assign": 0
+	},
+	{
+		"jp_text": "PH「クロノス(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「ホロウキバナ(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「ホロシャボン(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new Portable Hologram for\nall characters on your account.",
+		"assign": 0
 	}
 ]

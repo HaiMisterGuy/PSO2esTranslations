@@ -194,5 +194,26 @@
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
 		"assign": 0
+	},
+	{
+		"jp_text": "Sv「とある魔術の禁書目録×ＮＧＳ」",
+		"tr_text": "Sv \"A Certain Magical Index x NGS\"",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「とある魔術の禁書目録」",
+		"tr_text": "Sv \"A Certain Magical Index\"",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「せんとらるっ！」",
+		"tr_text": "Sv \"Central!\"",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "Unlocks a new card sleeve for\nall characters on your account.",
+		"assign": 0
 	}
 ]

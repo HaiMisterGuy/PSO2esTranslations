@@ -204,7 +204,28 @@
 	},
 	{
 		"jp_text": "BP「カガミモチ」",
-		"tr_text": "BP \"Kagami Mochi\"",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ハートフルギフト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ピュアフルギフト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヒナ・ドール」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -357,6 +378,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ダンボウル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「コタツ」",
 		"tr_text": "BP \"Kotatsu\"",
 		"jp_explain": "",
@@ -455,6 +483,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ゴシックチェアC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「クラシックテーブル」",
 		"tr_text": "BP \"Classic Table\"",
 		"jp_explain": "",
@@ -539,8 +574,22 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ゴシックスタンドC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「クラシックライト」",
 		"tr_text": "BP \"Classic Light\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴシックライトC」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -952,6 +1001,27 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ゴシックソファC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴシックローテーブルC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴシックベッドC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ゴシックチェア」",
 		"tr_text": "BP \"Gothic Chair\"",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
@@ -968,6 +1038,13 @@
 	{
 		"jp_text": "BP「ゴシックライト」",
 		"tr_text": "BP \"Gothic Light\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴシックマットC」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -1421,6 +1498,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ゴシックテーブルC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「クラシックテーブルB」",
 		"tr_text": "BP \"Classic Table B\"",
 		"jp_explain": "",
@@ -1570,6 +1654,41 @@
 	{
 		"jp_text": "BP「スイートシェルフB」",
 		"tr_text": "BP \"Sweet Shelf B\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スイートベッドC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スイートソファC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スイートローテーブルC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スイートラグC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スイートシェルフC」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -2758,6 +2877,27 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「スイートショコラ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ハートフルクッション」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ピュアフルクッション」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「桜餅クッション」",
 		"tr_text": "BP \"Sakuramochi Cushion\"",
 		"jp_explain": "",
@@ -3766,6 +3906,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ディストーションツリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ブルー撮影ブース」",
 		"tr_text": "BP \"Blue Screen\"",
 		"jp_explain": "",
@@ -4361,6 +4508,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「シンプルシンク」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「バスケットゴール」",
 		"tr_text": "BP \"Basketball Goal\"",
 		"jp_explain": "",
@@ -4391,6 +4545,27 @@
 	{
 		"jp_text": "BP「保健室の仕切り」",
 		"tr_text": "BP \"Infirmary Partition\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「シュジュツ・ベッド」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「シンデンザー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「テンテキ」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4433,6 +4608,13 @@
 	{
 		"jp_text": "BP「丸型ストーブ」",
 		"tr_text": "BP \"Round Stove\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オイルヒーター」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -4629,6 +4811,27 @@
 	{
 		"jp_text": "BP「マトイ（イノセント）ポスター」",
 		"tr_text": "BP \"Matoi (Innocent) Poster\"",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オッソリアイス」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オッソリアフトン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オッソリアヒノキブロ」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
@@ -11992,7 +12195,84 @@
 	},
 	{
 		"jp_text": "BP「葬送のフリーレン：防御魔法」",
-		"tr_text": "BP \"Frieren: Defensive Magic\"",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラブアピールリボン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「赤鬼のフィギュア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「青鬼のフィギュア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「M404ロケットランチャー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティックコントローラー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラーガソード」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラーガライフル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラーガランチャー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラーガロッド」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラーガスピア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラーガボウ」",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
