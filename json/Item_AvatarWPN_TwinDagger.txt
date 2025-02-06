@@ -474,5 +474,12 @@
 		"tr_text": "＊Twin Chakram",
 		"jp_explain": "フォトンによる円状の刃を持つ\n双小剣型武器迷彩。攻撃速度に優れ、\n多数の敵を相手取るのに向いている。",
 		"tr_explain": "Twin Dagger camo with circular Photon\nblades. Their excellent attack speed is\nsuitable for taking on multiple enemies."
+	},
+	{
+		"assign": "104010025",
+		"jp_text": "＊スティーリディエント",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ツインダガー／\nダブルセイバー<c>",
+		"tr_explain": ""
 	}
 ]

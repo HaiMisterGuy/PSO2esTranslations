@@ -3855,6 +3855,11 @@
 		"tr_text": "Type-C Bantha Ong"
 	},
 	{
+		"assign": "PantherARareHC0Ex",
+		"jp_text": "タイプＣバンサ・オングＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "PantherARareHC1",
 		"jp_text": "タイプＣバンサ・オング＋",
 		"tr_text": "Type-C Bantha Ong+"
@@ -3863,6 +3868,11 @@
 		"assign": "PantherARareMC0",
 		"jp_text": "覇滅バンサ・オング",
 		"tr_text": "Superior Banther Ong"
+	},
+	{
+		"assign": "PantherARareMC0Ex",
+		"jp_text": "覇滅バンサ・オングＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "PantherARareMC1",
@@ -3908,6 +3918,11 @@
 		"assign": "PantherBRareHC0",
 		"jp_text": "タイプＣバンサ・ドンナ",
 		"tr_text": "Type-C Banther Donna"
+	},
+	{
+		"assign": "PantherBRareHC0Ex",
+		"jp_text": "タイプＣバンサ・ドンナＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "PantherBRareHC1",
@@ -3983,6 +3998,11 @@
 		"assign": "DragonMagmaRareMC1",
 		"jp_text": "覇滅バーン・ドラール",
 		"tr_text": "Superior Burn Draal"
+	},
+	{
+		"assign": "DragonMagmaRareMC1Ex",
+		"jp_text": "覇滅バーン・ドラールＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "DragonMagmaRareMC2",
@@ -4510,6 +4530,11 @@
 		"tr_text": "Unknown Nove Ringadarl"
 	},
 	{
+		"assign": "BirdCentaurRareMU0Ex",
+		"jp_text": "未知ノーヴ・リンガダールＥｘ",
+		"tr_text": ""
+	},
+	{
 		"assign": "BirdCentaurRareMU1",
 		"jp_text": "未知ノーヴ・リンガダール＋",
 		"tr_text": "Unknown Nove Ringadarl+"
@@ -4653,6 +4678,11 @@
 		"assign": "AbyssFlowerRareMC1",
 		"jp_text": "覇滅マギサ・メデューナ",
 		"tr_text": "Superior Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareMC1Ex",
+		"jp_text": "覇滅マギサ・メデューナＥｘ",
+		"tr_text": ""
 	},
 	{
 		"assign": "AbyssFlowerRareMC2",

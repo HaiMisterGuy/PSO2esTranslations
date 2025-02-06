@@ -892,7 +892,7 @@
 		"assign": "3200136",
 		"jp_text": "キャラ倉庫拡張５０",
 		"tr_text": "Character Storage Expansion 50",
-		"jp_explain": "キャラ倉庫の上限を５０拡張。\nキャラ倉庫は１キャラクターにつき\n最大で１０００まで拡張可能。",
+		"jp_explain": "キャラ倉庫の上限を５０拡張。\nキャラ倉庫は１キャラクターにつき\n最大で２０００まで拡張可能。",
 		"tr_explain": "Expands Character\nStorage by 50. Up to a\nmaximum of 1000 per character."
 	},
 	{

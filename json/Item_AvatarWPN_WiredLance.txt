@@ -399,6 +399,13 @@
 		"tr_explain": "Weapon camouflage that changes the\nappearance of your equipment.\n<yellow>Type: Wired Lance/Double Saber\nand others<c>"
 	},
 	{
+		"assign": "102010022",
+		"jp_text": "＊コルボ・メザーナRe-MアルマティCV",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ワイヤードランス／タリス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "102010023",
 		"jp_text": "＊ディスクブレイカー",
 		"tr_text": "＊Disc Breaker",
@@ -425,5 +432,12 @@
 		"tr_text": "＊Blade Ball",
 		"jp_explain": "遊戯具を改造してしまった自在槍型\n武器迷彩。遊びのつもりで振るうと\n大怪我をしてしまう。",
 		"tr_explain": "Wired Lance weapon camouflage based\non a modified toy.\nDon't play with it, or you'll hurt yourself!"
+	},
+	{
+		"assign": "102010026",
+		"jp_text": "＊クリオ・ロケットパンチ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ワイヤードランス<c>",
+		"tr_explain": ""
 	}
 ]
